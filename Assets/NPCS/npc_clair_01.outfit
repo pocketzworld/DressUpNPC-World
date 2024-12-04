@@ -1,0 +1,54 @@
+{
+    "IncludeFallbacks": true,
+    "Skeleton": "",
+    "Clothing": [
+        {
+            "Id": "body-flesh",
+            "Color": 25
+        },
+        {
+            "Id": "freckle-n_eyerise2021ravennessblush",
+            "Color": 0
+        },
+        {
+            "Id": "mouth-n_npcglowupeventrewards022024ipixprettygalmouth",
+            "Color": 8
+        },
+        {
+            "Id": "nose-n_03_b",
+            "Color": 0
+        },
+        {
+            "Id": "skirt-n_brixsiwannaplaygrab2022blueskirt",
+            "Color": 0
+        },
+        {
+            "Id": "shirt-n_vintagevaultrecolors2024coffeedatesweaterblack",
+            "Color": 0
+        },
+        {
+            "Id": "shoes-n_hrcchrlivewitchdrop2024witchbootsilver",
+            "Color": 0
+        },
+        {
+            "Id": "eyebrow-n_21",
+            "Color": 4
+        },
+        {
+            "Id": "hat-n_septemberartistlounge4grabkatelinyeehaloheart",
+            "Color": 0
+        },
+        {
+            "Id": "eye-n_npcglowupudcgrabone2024devilcraftfemeyes",
+            "Color": 22
+        },
+        {
+            "Id": "hair_front-n_npcglowupudcgrabone2024devilcraftfemhair",
+            "Color": 23
+        },
+        {
+            "Id": "hair_back-n_npcglowupudcgrabone2024devilcraftfemhair",
+            "Color": 23
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_Closet_16
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: dress-n_werewolves2018ghostcloak
+    _paletteId: -1
+  - _descriptorId: dress-n_hccwhisperingspiritschaseitems2024jbrionemummywrap
+    _paletteId: -1
+  - _descriptorId: fullsuit-n_pjparty2024sharkonesie
+    _paletteId: -1
+  - _descriptorId: fullsuit-n_monstermashonesiescrewards2020pumpkinonesie
+    _paletteId: -1
+  - _descriptorId: fullsuit-n_monstermashonesiescrewards2020ghostnonesie
+    _paletteId: -1
+  - _descriptorId: shirt-halloweenskypass2021ghosthoodie
+    _paletteId: -1
+  - _descriptorId: shirt-n_ghosthuntghost2021rippedghostshirt
+    _paletteId: -1
+  - _descriptorId: shirt-n_ghosthuntghost2021veiltop
+    _paletteId: -1
+  - _descriptorId: shirt-n_2023halloweentopghostbnw
+    _paletteId: -1
+  - _descriptorId: shirt-n_bridgerteensceventsaleitems2022princessdress
+    _paletteId: -1
+  - _descriptorId: shirt-n_newyearnewlook02grabone2023declinedprincesscorset
+    _paletteId: -1
+  - _descriptorId: shirt-n_muthurtongrab2024_blackcorset
+    _paletteId: -1
+  - _descriptorId: shirt-n_hrideasfundedudc2024lilithhleopardcorset
+    _paletteId: -1
+  - _descriptorId: shirt-n_rockmsakuragrab2021bandagebandeau
+    _paletteId: -1
+  - _descriptorId: shirt-n_janscavenger2021fluffymonstercrop
+    _paletteId: -1
+  - _descriptorId: shirt-n_monsterhight2017heatskirt
+    _paletteId: -1
+  - _descriptorId: shirt-n_iapeastersale2024konguipeachbunnysuit
+    _paletteId: -1
+  - _descriptorId: shirt-n_costumepartyluckyspinsaleitems2023onesie
+    _paletteId: -1
+  - _descriptorId: shirt-n_tricksandtreats2particrwrds2024izzyyeclowndress
+    _paletteId: -1
+  - _descriptorId: shirt-n_octhrlivesocials2024witchdresssilver
+    _paletteId: -1
+  - _descriptorId: shirt-n_snowwhiterewards2021witchhoodie
+    _paletteId: -1
+  - _descriptorId: shirt-n_jungleexplorer2020explorercroptop
+    _paletteId: -1
+  - _descriptorId: pants-n_matchateagrab2021greenteaplaidpantspurple
+    _paletteId: -1
+  - _descriptorId: pants-n_julyskypass2022chaosleatherpants
+    _paletteId: -1
+  - _descriptorId: pants-n_bengalcatrewards2022patternedflares
+    _paletteId: -1
+  - _descriptorId: pants-n_pjpartyudcgrab12024ecobeautyplushpants
+    _paletteId: -1
+  - _descriptorId: pants-n_ghosthuntghost2021rippedsilktights
+    _paletteId: -1
+  - _descriptorId: pants-n_zombiegrab2018_zombielegs
+    _paletteId: -1
+  - _descriptorId: pants-n_zombiehuntergrab2023strappyjeans
+    _paletteId: -1
+  - _descriptorId: pants-n_monsterfactoryjainlbunyzgrab2023thickthighpanties
+    _paletteId: -1
+  - _descriptorId: pants-n_hrcc2021bandagedgirlbottom
+    _paletteId: -1
+  - _descriptorId: skirt-n_muthurtongrab2024_blackskirt
+    _paletteId: -1
+  - _descriptorId: skirt-n_muthurstore2024_pinkskirt
+    _paletteId: -1
+  - _descriptorId: skirt-n_muthurtongrab2024_pinkskirt
+    _paletteId: -1
+  - _descriptorId: pants-n_hekomugrab2019blackrippedshorts
+    _paletteId: -1
+  - _descriptorId: pants-nugoth2020_rippedtights
+    _paletteId: -1
+  - _descriptorId: pants-n_earthdayhcc2024shortsgreen
+    _paletteId: -1
+  - _descriptorId: shoes-n_halloweencostumepartyudcuserrewards2022flavouredppheels
+    _paletteId: -1
+  - _descriptorId: shoes-n_costumepartygrabtwo2023tunaxsuccubusboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_costumepartyudc2halfgrabrewards022023ghoulshoes
+    _paletteId: -1
+  - _descriptorId: shoes-n_costumepartygrabone2023miramoofurryshoes
+    _paletteId: -1
+  - _descriptorId: shoes-n_bridgerteenscrewardstheme3royalty2022princessshoes
+    _paletteId: -1
+  - _descriptorId: shoes-n_tricksandtreatspartipationrewards2023witchtrickspuigferret
+    _paletteId: -1
+  - _descriptorId: shoes-n_witchcottagecore2021darkartsboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_witchcottagecore2021strappyboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_gardencoreudcgrabone2024ethenfemboots
+    _paletteId: -1
+  - _descriptorId: shoes-monsterbubblegrab2020plushpawslippers
+    _paletteId: -1
+  - _descriptorId: shoes-n_elixirwintercollection2022mismatchedblackpurpleboots
+    _paletteId: -1
+  - _descriptorId: sock-n_hccwhisperingspiritschaseitems2024mummywrapsocks
+    _paletteId: -1
+  - _descriptorId: mouth-n_mummymouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_mummymouth
+    _paletteId: -1
+  - _descriptorId: eye-n_nocturnalghostrewards2022deadlysight
+    _paletteId: -1
+  - _descriptorId: eye-n_witchinghourgrabtwo2024vampsitywitcheyes
+    _paletteId: -1
+  - _descriptorId: eye-n_halloweenwitchrewards2019diamondeye
+    _paletteId: -1
+  - _descriptorId: eye-n_halloweencrewparticipationrewards2020spookyeyeliner
+    _paletteId: -1
+  - _descriptorId: mouth-n_halloween2017dracmouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_pastelgothlolita2020recolortintedvamplips
+    _paletteId: -1
+  - _descriptorId: mouth-n_vampgothgrab2020happymouth
+    _paletteId: -1
+  - _descriptorId: freckle-n_isauwuhalloweengrab2020scratchedcheeks
+    _paletteId: -1
+  - _descriptorId: nose-n_udcscw2022teddynoseglowlamb
+    _paletteId: -1
+  - _descriptorId: nose-n_weddingudcopiah2022petitsniffer
+    _paletteId: -1
+  - _descriptorId: freckle-n_stpattys2017sunkissedfreckles
+    _paletteId: -1
+  - _descriptorId: nose-n_atheleisuregothgrab2020bandagedpiercednose
+    _paletteId: -1
+  - _descriptorId: hair_front-n_halloweensaleitems2022femalehair
+    _paletteId: -1
+  - _descriptorId: hair_front-n_tricksandtreatspartipationrewards2023frankenfrobrixsi
+    _paletteId: -1
+  - _descriptorId: hair_front-n_horrorgrab2021frankenbridebuns
+    _paletteId: -1
+  - _descriptorId: hair_front-n_chromevaultrwrds12024ipixnaturesricheslocs
+    _paletteId: -1
+  - _descriptorId: hair_front-n_hrgothicprankudcgrab012024brixsibatslocs
+    _paletteId: -1
+  - _descriptorId: hair_front-n_hrcc2021bandagedgirllocs
+    _paletteId: -1
+  - _descriptorId: hair_front-n_gothgrab2022locspony
+    _paletteId: -1
+  - _descriptorId: hair_front-n_gothgrab2022locspony
+    _paletteId: -1
+  - _descriptorId: hair_front-n_npcglowupeventrewards022024zimexplorercolorlocks
+    _paletteId: -1
+  - _descriptorId: bag-n_earthdayhcc2024backpackblue
+    _paletteId: -1
+  - _descriptorId: hat-n_prehistoricdonatebonegrab2022explorerhat
+    _paletteId: -1
+  - _descriptorId: hat-n_costumepartygrabtwo2023darkenoughhornspiercing
+    _paletteId: -1
+  - _descriptorId: hat-n_costumepartygrabfede20bloodylala2022lazybunnyears
+    _paletteId: -1
+  - _descriptorId: hat-n_weddingudcrwds22022ttaynobowveil
+    _paletteId: -1
+  - _descriptorId: bag-n_registrationavatars2023demonwings
+    _paletteId: -1
+  - _descriptorId: hat-n_hrcc2021bandagedgirlfacebandage_1
+    _paletteId: -1
+  - _descriptorId: hat-n_gothanchorstore2022witchhat
+    _paletteId: -1

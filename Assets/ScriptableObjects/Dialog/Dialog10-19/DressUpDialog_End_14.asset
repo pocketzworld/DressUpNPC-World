@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1be4dc1c48e117b1b198166489adc7d5, type: 3}
+  m_Name: DressUpDialog_End_14
+  m_EditorClassIdentifier: 
+  _script: {fileID: -974389366465450183, guid: a13bdcc9f23e17640b4716b13372c700, type: 3}
+  _networkId: 2131941351
+  _properties: []
+  _dialogStrings:
+  - "This is perfect! It\u2019s colorful and fun, but I still feel like myself in
+    it"
+  - "You\u2019ll definitely fit right in, and you\u2019re all set to enjoy the festival
+    in comfort."
+  - "Thank you! I\u2019m actually excited to step out of my comfort zone and have
+    some fun!"
+  _emotes:
+  - emote-pose1
+  - 
+  - 
+  _playerSpeakingList: 000100
+  _speechAudio: {fileID: 11400000, guid: 85ef8a628c689164286492d69722f837, type: 2}
+  _displayData: {fileID: 11400000, guid: 76a381f01cf8a404e95555b8a2cc25d3, type: 2}
+  references:
+    version: 2
+    RefIds: []

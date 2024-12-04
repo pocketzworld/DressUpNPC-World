@@ -1,0 +1,66 @@
+{
+    "IncludeFallbacks": true,
+    "Skeleton": "",
+    "Clothing": [
+        {
+            "Id": "body-flesh",
+            "Color": 1
+        },
+        {
+            "Id": "nose-n_01",
+            "Color": 0
+        },
+        {
+            "Id": "mouth-vip_f_01",
+            "Color": 0
+        },
+        {
+            "Id": "eye-n_2016madscientistsleepyeyes",
+            "Color": 0
+        },
+        {
+            "Id": "eyebrow-n_02",
+            "Color": 2
+        },
+        {
+            "Id": "handbag-n_glowupdonaterewards012024ipixpotionbottlehand",
+            "Color": 0
+        },
+        {
+            "Id": "bag-n_glowupdonaterewards012024ipixlatexovertopcrop",
+            "Color": 0
+        },
+        {
+            "Id": "bag-n_glowupdonaterewards012024ipixpotionbottlearm",
+            "Color": 0
+        },
+        {
+            "Id": "hat-n_glowupdonaterewards012024ipixgasmaskled",
+            "Color": 0
+        },
+        {
+            "Id": "earrings-n_glowupdonaterewards012024ipixearrings",
+            "Color": 0
+        },
+        {
+            "Id": "hat-n_glowupdonaterewards012024ipixheartpixelglasses",
+            "Color": 0
+        },
+        {
+            "Id": "shoes-n_glowupdonaterewards012024ipixlatexhighboots",
+            "Color": 0
+        },
+        {
+            "Id": "fullsuit-n_glowupdonaterewards012024ipixlatexshortsuit",
+            "Color": 0
+        },
+        {
+            "Id": "hair_front-n_glowupdonaterewards012024ipixlonghair",
+            "Color": 13
+        },
+        {
+            "Id": "hair_back-n_glowupdonaterewards012024ipixlonghair",
+            "Color": 13
+        }
+    ]
+}

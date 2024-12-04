@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_Closet_10
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: shirt-n_fallfavoritesscsalerare2022turtleneckshrugwithbra
+    _paletteId: -1
+  - _descriptorId: shirt-n_sweaterudcstandalonegrab2022clubcountrydeconstructedsweaterdress
+    _paletteId: -1
+  - _descriptorId: shirt-n_masqueradeballparticipationrewardsprank2023leathercoat
+    _paletteId: -1
+  - _descriptorId: shirt-n_artistloungexigrab2024xblssdsourdinewschooluniform
+    _paletteId: -1
+  - _descriptorId: shirt-n_autumnacademiascpartrewards2023rinroautumnschooljacket
+    _paletteId: -1
+  - _descriptorId: shirt-n_autumnacademiaudccrewrewards2024justkustplaidjacket
+    _paletteId: -1
+  - _descriptorId: shirt-n_autumnacademiaudcgrabone2024yuppiacademicdress
+    _paletteId: -1
+  - _descriptorId: shirt-n_autumnacademiagrab22024felineacademydress
+    _paletteId: -1
+  - _descriptorId: shirt-n_npcpartirewards2019Jimmyraglan
+    _paletteId: -1
+  - _descriptorId: freckle-n_eyerise2021ravennessblush
+    _paletteId: -1
+  - _descriptorId: eye-n_EliiizaTunaXschoolaesthetics2021eyeroll
+    _paletteId: -1
+  - _descriptorId: mouth-n_moicpinkballgrab2023mouth
+    _paletteId: -1
+  - _descriptorId: eye-n_spookifythreeudceveuserewar2024dionysuseaterglare
+    _paletteId: -1
+  - _descriptorId: eye-n_battleroyaleudcgrabtwo2024morhgfemeyes
+    _paletteId: -1
+  - _descriptorId: eye-n_gardencoreudcgrabone2024ethenfemeyes
+    _paletteId: -1
+  - _descriptorId: eye-n_outcastpartyrewards2022tiredeyes
+    _paletteId: -1
+  - _descriptorId: eye-n_90sgrungerewards2021smokyeye
+    _paletteId: -1
+  - _descriptorId: freckle-n_gothrewards2019darktears
+    _paletteId: -1
+  - _descriptorId: freckle-n_favoriteitemsextra2023heartblush
+    _paletteId: -1
+  - _descriptorId: mouth-n_teacherfashionpartyacademybubblerewards2022pencilmouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_muthurtunagoth2024_gothpout
+    _paletteId: -1
+  - _descriptorId: mouth-n_cherryblossombloomsccherrybomb2023cherrypopsicle
+    _paletteId: -1
+  - _descriptorId: shoes-n_hrontourpopidolsgrab2022darkboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_gardencoreluckyspin2024uwubrownmocasin
+    _paletteId: -1
+  - _descriptorId: shoes-n_autumnacademiaudcgrabone2024brownboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_favoritethingsredesign2023sockshoesbrown
+    _paletteId: -1
+  - _descriptorId: shoes-n_udcfallfashion2022brownmaryjanes
+    _paletteId: -1
+  - _descriptorId: shoes-n_enchantedleafcrewrewards2021brownlooseshoes
+    _paletteId: -1
+  - _descriptorId: shoes-n_muthurstaplessale2024_brownboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_earthdayhcc2024boots
+    _paletteId: -1
+  - _descriptorId: shoes-n_earthdayhcc2024blackboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_hrgothicprankudcgrab012024yuppibuckledboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_monochromevaultgrab2024pt4blackduckmoodboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_y2kvibesrewards32023alticssneakers
+    _paletteId: -1
+  - _descriptorId: shoes-n_artistloungeiiiudc2023nekkotasneakerboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_shoeriseudcevereward2024maxdxiiconversechunks
+    _paletteId: -1
+  - _descriptorId: hat-n_room22019beanieblack_1
+    _paletteId: -1
+  - _descriptorId: hat-n_freshfaceddonategrab012023arcanevapetattooears
+    _paletteId: -1
+  - _descriptorId: glasses-n_junef2pcollection2024glassesblack
+    _paletteId: -1
+  - _descriptorId: hat-n_camocombatparticipationrewards2022combatbuckleberet
+    _paletteId: -1
+  - _descriptorId: glasses-n_schooljournalism2019tortoiseglasses
+    _paletteId: -1
+  - _descriptorId: hat-n_lexyschoolaesthetics2021heartglasses
+    _paletteId: -1
+  - _descriptorId: handbag-n_return2classf2ptemplateudc2024yuppileathernotebook
+    _paletteId: -1
+  - _descriptorId: hat-n_studenthat
+    _paletteId: -1
+  - _descriptorId: handbag-n_gothanchorstore2022blackminibackpack
+    _paletteId: -1
+  - _descriptorId: bag-n_itcrowdscgrab2022offshoulderbackpack
+    _paletteId: -1
+  - _descriptorId: bag-n_schoolrewards2018backpack
+    _paletteId: -1
+  - _descriptorId: handbag-n_back2classrewards19notebook
+    _paletteId: -1
+  - _descriptorId: handbag-n_schoolcasual2017giantpencil
+    _paletteId: -1
+  - _descriptorId: bag-n_autumnacademiaparticrwrds2024irensablackmessengerbag
+    _paletteId: -1
+  - _descriptorId: hat-n_autumnacademiaparticrwrds2024piqusiepenpencilears
+    _paletteId: -1
+  - _descriptorId: handbag-n_2016teacherruler
+    _paletteId: -1
+  - _descriptorId: gloves-n_schooljournalism2019laptop
+    _paletteId: -1
+  - _descriptorId: hat-n_gardencoregrab22024leewolfheimsoakedbook
+    _paletteId: -1
+  - _descriptorId: handbag-n_sabrinagrab2019darkartstextbook
+    _paletteId: -1
+  - _descriptorId: hat-n_schoolcontestsaleitems2021bookhat
+    _paletteId: -1
+  - _descriptorId: pants-n_gothgrab2022overalls
+    _paletteId: -1
+  - _descriptorId: skirt-n_schoolbfoldskirtblack
+    _paletteId: -1
+  - _descriptorId: skirt-n_trashcoreudcgrab12024jackscoldsweatskirt
+    _paletteId: -1
+  - _descriptorId: pants-n_januaryskypassjoetta2023greydoodlecargos
+    _paletteId: -1
+  - _descriptorId: skirt-n_classiccamograb2022_minicamoskirt
+    _paletteId: -1
+  - _descriptorId: skirt-n_autumnacademiaparticrwrds2024shaneanimeuwuskirt
+    _paletteId: -1
+  - _descriptorId: skirt-n_uniform2017plaidskirt
+    _paletteId: -1
+  - _descriptorId: skirt-n_animeuniformrewards2021starchainplaidskirt
+    _paletteId: -1
+  - _descriptorId: skirt-n_lexyschoolaesthetics2021academyskirt
+    _paletteId: -1
+  - _descriptorId: pants-christmasatthemallrisewintercollection2022flarepantsblack
+    _paletteId: -1
+  - _descriptorId: pants-n_mockeristarterpackblack2024cargos
+    _paletteId: -1
+  - _descriptorId: pants-n_elixirwintercollection2022blackbellbottoms
+    _paletteId: -1
+  - _descriptorId: pants-n_elixirchristmasmallgrab2022blackplaidpants
+    _paletteId: -1
+  - _descriptorId: pants-n_fallfashionudctheme1grab2022fallinparachutepantspapazkacti
+    _paletteId: -1
+  - _descriptorId: pants-n_septf2p2024yellowplaidrolledpants
+    _paletteId: -1
+  - _descriptorId: hair_front-n_barackobanterspringgrab2020lowponywavy
+    _paletteId: -1
+  - _descriptorId: hair_front-f_ccrewards2021enigerclassymediumupdo
+    _paletteId: -1
+  - _descriptorId: hair_front-n_classiccamograb2022_tightpony
+    _paletteId: -1
+  - _descriptorId: hair_front-autumnacademiacrewandmodel2023tottyschoolponytail
+    _paletteId: -1
+  - _descriptorId: hair_front-autumnacademiacrewandmodel2023scarletbacktoschoolhair
+    _paletteId: -1
+  - _descriptorId: hair_front-n_trashcoreudcgrab12024bbmenacemessybun
+    _paletteId: -1
+  - _descriptorId: hair_front-mothersday2020_messymommyhair
+    _paletteId: -1
+  - _descriptorId: hair_front-n_winterwondersrewards2021latte_messybun
+    _paletteId: -1

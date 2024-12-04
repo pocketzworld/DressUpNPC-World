@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1be4dc1c48e117b1b198166489adc7d5, type: 3}
+  m_Name: DressUpDialog_End_15
+  m_EditorClassIdentifier: 
+  _script: {fileID: -974389366465450183, guid: a13bdcc9f23e17640b4716b13372c700, type: 3}
+  _networkId: 2131941351
+  _properties: []
+  _dialogStrings:
+  - I feel comfortable but way more put-together than my usual look!
+  - "You\u2019ll definitely make a good impression, and you\u2019ll still feel like
+    yourself"
+  - "Thanks! My family won\u2019t believe I can clean up this well!"
+  _emotes:
+  - emote-laughing
+  - 
+  - 
+  _playerSpeakingList: 000100
+  _speechAudio: {fileID: 11400000, guid: 0a3049ff75398004386f42314fe03b0c, type: 2}
+  _displayData: {fileID: 11400000, guid: a55720f974a8b6048bd6cc72da7c94ad, type: 2}
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7217652293882993103
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1999628579082987652, guid: 4ea8fc71d0d33aa4794e860bd8a9318a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999628579082987652, guid: 4ea8fc71d0d33aa4794e860bd8a9318a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999628579082987652, guid: 4ea8fc71d0d33aa4794e860bd8a9318a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999628579082987652, guid: 4ea8fc71d0d33aa4794e860bd8a9318a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999628579082987652, guid: 4ea8fc71d0d33aa4794e860bd8a9318a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999628579082987652, guid: 4ea8fc71d0d33aa4794e860bd8a9318a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999628579082987652, guid: 4ea8fc71d0d33aa4794e860bd8a9318a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999628579082987652, guid: 4ea8fc71d0d33aa4794e860bd8a9318a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999628579082987652, guid: 4ea8fc71d0d33aa4794e860bd8a9318a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1999628579082987652, guid: 4ea8fc71d0d33aa4794e860bd8a9318a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3103006950472169455, guid: 4ea8fc71d0d33aa4794e860bd8a9318a,
+        type: 3}
+      propertyPath: m_characterPrefab
+      value: 
+      objectReference: {fileID: 7917021619805684483, guid: d1ef8047b5779cb4b8d1d0e090baef65,
+        type: 3}
+    - target: {fileID: 8457444051872364791, guid: 4ea8fc71d0d33aa4794e860bd8a9318a,
+        type: 3}
+      propertyPath: m_Name
+      value: DressUp WorldScene Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4ea8fc71d0d33aa4794e860bd8a9318a, type: 3}

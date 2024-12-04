@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="UnityEngine.UIElements"
+    xmlns:hr="Highrise.UI"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd"
+>
+
+  <hr:UILuaView name="_root" class="dress-up">
+    <VisualElement name="_goalContainer" class="topcenter-anchor">
+      <Label name="_goalText" text="Goal" class="font14 color-white" picking-mode="Ignore"/>
+    </VisualElement>
+    <VisualElement name="_baseContainer" class="bottomcenter-anchor fill-parent">
+      <VisualElement name="_submitContainer" class="">
+        <VisualElement name="_leftContainer" class="left-anchor">
+          <hr:UILabel name="_modifiedLabel" text="Modified {1}/{2}" class="font18 color-white" picking-mode="Ignore"/>
+        </VisualElement>
+        <hr:UIButton name="_submitButton" class="standard-button bottomright-anchor backgroundcolor-dressup-positive">
+          <Label text="Submit" class="font18 color-white" picking-mode="Ignore"/>
+        </hr:UIButton>
+      </VisualElement>
+    </VisualElement>
+  </hr:UILuaView>
+
+</UXML>

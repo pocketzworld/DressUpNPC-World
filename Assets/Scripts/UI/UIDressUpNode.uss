@@ -1,0 +1,31 @@
+.dress-up-node {
+}
+
+.dress-up-node #_nodeBase {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+.landscape .dress-up-node #_nodeBase {
+    width: 40px;
+    height: 40px;
+}
+
+.chosen {
+    background-color: #9035bb
+}
+
+.notchosen {
+    background-color: #212121
+}
+
+.dress-up-node #_nodeImage {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}

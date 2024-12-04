@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="UnityEngine.UIElements"
+    xmlns:hr="Highrise.UI"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd"
+>
+
+  <hr:UILuaView name="_root" class="outfit-choice-popup" picking-mode="ignore">
+    <VisualElement name="_goalContainer" class="topcenter-anchor">
+      <Label name="_goalText" text="Goal" class="font14 color-white wrap" picking-mode="Ignore"/>
+    </VisualElement>
+    <VisualElement name="_contentContainer" class="fill-parent bottomcenter-anchor vertical-layout">
+      <VisualElement name="_baseContainer">
+        <VisualElement name="_entryParent">
+        </VisualElement>
+      </VisualElement>
+      <hr:UIButton name="_confirmButton" class="standard-button">
+          <Label text="Confirm" class="font18 color-white" picking-mode="Ignore"/>
+      </hr:UIButton>
+    </VisualElement>
+  </hr:UILuaView>
+
+</UXML>

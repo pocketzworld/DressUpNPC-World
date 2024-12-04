@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9157246917837064756
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1905952944480365028, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: _dressUpTask
+      value: 
+      objectReference: {fileID: 11400000, guid: fb6fc8005ef351d4c889ee69eefd70d0,
+        type: 2}
+    - target: {fileID: 1905952944480365028, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: _questTemplate
+      value: 
+      objectReference: {fileID: 11400000, guid: ba71c7f7b88811349bbc3beaad206ea4,
+        type: 2}
+    - target: {fileID: 1905952944480365028, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: _outfits.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905952944480365028, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: _outfits.Array.data[0]
+      value: 
+      objectReference: {fileID: -7553472394939420986, guid: 3c66a6beaeea5664cbeebf5eece601b2,
+        type: 3}
+    - target: {fileID: 1905952944480365028, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: _outfits.Array.data[1]
+      value: 
+      objectReference: {fileID: -7553472394939420986, guid: 23b4ae7fedc63b248bd77ac5e90e2e76,
+        type: 3}
+    - target: {fileID: 1905952944480365028, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: _dressUpTasks.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905952944480365028, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: _questTemplates.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905952944480365028, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: _dressUpTasks.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: fb6fc8005ef351d4c889ee69eefd70d0,
+        type: 2}
+    - target: {fileID: 1905952944480365028, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: _dressUpTasks.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: 622c48b8a0afbf440a0f091d6e050e66,
+        type: 2}
+    - target: {fileID: 1905952944480365028, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: _dressUpTasks.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: 134a9972eab1fd243a5a8971aad5e5ee,
+        type: 2}
+    - target: {fileID: 1905952944480365028, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: _questTemplates.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: ba71c7f7b88811349bbc3beaad206ea4,
+        type: 2}
+    - target: {fileID: 1905952944480365028, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: _questTemplates.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: 134a9972eab1fd243a5a8971aad5e5ee,
+        type: 2}
+    - target: {fileID: 2285638286313800813, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: _outfits.Array.data[0]
+      value: 
+      objectReference: {fileID: -7553472394939420986, guid: 3c66a6beaeea5664cbeebf5eece601b2,
+        type: 3}
+    - target: {fileID: 3656665738826657575, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: m_Name
+      value: DressUpTask_07
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873394180615480831, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -18.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873394180615480831, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873394180615480831, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -32.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873394180615480831, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99997276
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873394180615480831, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000009346187
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873394180615480831, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -1.4200756e-11
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873394180615480831, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0073808106
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873394180615480831, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873394180615480831, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873394180615480831, guid: c50a9537c3a92a44db34c9d6adc07db5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -0.846
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c50a9537c3a92a44db34c9d6adc07db5, type: 3}

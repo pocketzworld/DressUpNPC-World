@@ -1,0 +1,50 @@
+{
+    "IncludeFallbacks": true,
+    "Skeleton": "",
+    "Clothing": [
+        {
+            "Id": "body-flesh",
+            "Color": 1
+        },
+        {
+            "Id": "hair_front-m_09",
+            "Color": 4
+        },
+        {
+            "Id": "nose-n_03_b",
+            "Color": 0
+        },
+        {
+            "Id": "hair_back-m_05",
+            "Color": 4
+        },
+        {
+            "Id": "pants-n_soccershop2018blackshorts",
+            "Color": 0
+        },
+        {
+            "Id": "shirt-n_deceasedpuddledeadpool2024deadpooljackettradeable",
+            "Color": 0
+        },
+        {
+            "Id": "eyebrow-n_guyrisecrew2024tunaxfurrowedbrows",
+            "Color": 0
+        },
+        {
+            "Id": "freckle-n_registrationavatars2023contour",
+            "Color": 0
+        },
+        {
+            "Id": "shoes-n_shoeriseudcevereward2024uraanusstreetrunner",
+            "Color": 0
+        },
+        {
+            "Id": "mouth-n_07",
+            "Color": 0
+        },
+        {
+            "Id": "eye-n_starstruckudcgrab12023mockerimasceyes",
+            "Color": 0
+        }
+    ]
+}

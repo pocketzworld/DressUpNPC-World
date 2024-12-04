@@ -1,0 +1,58 @@
+{
+  "IncludeFallbacks": true,
+  "Skeleton": "",
+  "Clothing": [
+    {
+      "Id": "body-flesh",
+      "Color": 6
+    },
+    {
+      "Id": "freckle-n_ReneeMurthurGrab2021FaceGlow",
+      "Color": 0
+    },
+    {
+      "Id": "eyebrow-n_takeyourpickudcgrab022024irensainkbrows",
+      "Color": 2
+    },
+    {
+      "Id": "handbag-n_npcglowupeventrewards022024ipixprettygalnails",
+      "Color": 0
+    },
+    {
+      "Id": "bag-n_npcglowupeventrewards022024ipixprettygalpuffysleeves",
+      "Color": -1
+    },
+    {
+      "Id": "eye-n_npcglowupeventrewards022024ipixprettygalpurpleeye",
+      "Color": 38
+    },
+    {
+      "Id": "mouth-n_npcglowupeventrewards022024ipixprettygalmouth",
+      "Color": 27
+    },
+    {
+      "Id": "necklace-n_npcglowupeventrewards022024ipixprettygalnecklace",
+      "Color": -1
+    },
+    {
+      "Id": "shirt-n_npcglowupeventrewards022024ipixprettygalskintightdress",
+      "Color": 0
+    },
+    {
+      "Id": "shoes-n_npcglowupeventrewards022024ipixprettygaltallheels",
+      "Color": 0
+    },
+    {
+      "Id": "nose-n_tunaxgrab2022straightnose",
+      "Color": 0
+    },
+    {
+      "Id": "hair_front-n_promperfectudcgrabone2024cyberknightluxesideshave",
+      "Color": 2
+    },
+    {
+      "Id": "hair_back-n_promperfectudcgrabone2024cyberknightluxesideshave",
+      "Color": 2
+    }
+  ]
+}

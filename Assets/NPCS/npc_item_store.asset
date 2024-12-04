@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 968827023, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: npc_item_store
+  m_EditorClassIdentifier: 
+  _skeletonId: 
+  _items:
+  - _descriptorId: body-flesh
+    _paletteId: 82
+  - _descriptorId: nose-n_basic2018newnose05
+    _paletteId: -1
+  - _descriptorId: eyebrow-n_basic2018newbrows07
+    _paletteId: 0
+  - _descriptorId: freckle-n_basic2018freckle04
+    _paletteId: -1
+  - _descriptorId: skirt-n_muthurstore2024_pinkskirt
+    _paletteId: -1
+  - _descriptorId: shirt-n_thriftstoregrab2020iconicdress
+    _paletteId: -1
+  - _descriptorId: hair_front-n_basic2018wavyfullbangs
+    _paletteId: 35
+  - _descriptorId: hair_back-n_basic2018wavyextralong
+    _paletteId: 35
+  - _descriptorId: eye-n_basic2018heavymascera
+    _paletteId: 7
+  - _descriptorId: freckle-n_basic2018freckle28
+    _paletteId: -1
+  - _descriptorId: handbag-n_januaryskypassjoetta2023hrdesignerbag
+    _paletteId: -1
+  - _descriptorId: glasses-n_14
+    _paletteId: -1
+  - _descriptorId: mouth-basic2018smugmouth
+    _paletteId: 43
+  - _descriptorId: bag-n_snowqueen2018sparkles
+    _paletteId: -1
+  - _descriptorId: hat-f_goldheadband
+    _paletteId: -1
+  - _descriptorId: shoes-n_aussiemorphboots
+    _paletteId: -1
+  _includeFallbacks: 0

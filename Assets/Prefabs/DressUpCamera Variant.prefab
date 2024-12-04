@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7164101237596501036
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3551931345751937580, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_fov
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 3551931345751937580, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_pitch
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 3551931345751937580, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_centerOnCharacterWhenSpawned
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5279981243723839846, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.023322
+      objectReference: {fileID: 0}
+    - target: {fileID: 5279981243723839846, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 13.681885
+      objectReference: {fileID: 0}
+    - target: {fileID: 5279981243723839846, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 25.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5279981243723839846, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4221632
+      objectReference: {fileID: 0}
+    - target: {fileID: 5279981243723839846, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.0066908104
+      objectReference: {fileID: 0}
+    - target: {fileID: 5279981243723839846, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9064898
+      objectReference: {fileID: 0}
+    - target: {fileID: 5279981243723839846, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0031160007
+      objectReference: {fileID: 0}
+    - target: {fileID: 5279981243723839846, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5279981243723839846, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -130.059
+      objectReference: {fileID: 0}
+    - target: {fileID: 5279981243723839846, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0.544
+      objectReference: {fileID: 0}
+    - target: {fileID: 7494135311037265500, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      propertyPath: m_Name
+      value: DressUpCamera Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 3551931345751937580, guid: 4db44322431f6d6439fa69e352e81b67, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7494135311037265500, guid: 4db44322431f6d6439fa69e352e81b67,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 870516700239279794}
+  m_SourcePrefab: {fileID: 100100000, guid: 4db44322431f6d6439fa69e352e81b67, type: 3}
+--- !u!1 &823178251994546800 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7494135311037265500, guid: 4db44322431f6d6439fa69e352e81b67,
+    type: 3}
+  m_PrefabInstance: {fileID: 7164101237596501036}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &870516700239279794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 823178251994546800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6697e81f6603ba113a577dea7098989, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _networkId: 0
+  _script: {fileID: -974389366465450183, guid: 0cb67e544cbf3b74a97a770b1dd6895c, type: 3}
+  _properties: []
+  _uiOutput: 0
+  _uiOutputSettings:
+    rid: -2
+  m_zoom: 25
+  m_zoomMin: 10
+  m_zoomMax: 50
+  m_fov: 28
+  m_allowRotation: 1
+  m_pitch: 28
+  m_yaw: 225
+  m_centerOnCharacterWhenSpawned: 1
+  m_centerOnCharacterWhenMovingSpeed: 0
+  _defaultCameraCutsceneSettings: {fileID: 11400000, guid: a27156cf446ae9442bd88976c19cd612,
+    type: 2}
+  _panToTargetCenterTime: 2
+  m_keepPlayerInView: 0
+  m_keepPlayerInViewPanDuration: 0.5
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1be4dc1c48e117b1b198166489adc7d5, type: 3}
+  m_Name: DressUpDialog_Start_12
+  m_EditorClassIdentifier: 
+  _script: {fileID: -974389366465450183, guid: a13bdcc9f23e17640b4716b13372c700, type: 3}
+  _networkId: 2131941351
+  _properties: []
+  _dialogStrings:
+  - "Clair and I are going on a hiking date, but I need an outfit that\u2019s practical
+    for the trails and still looks good"
+  - "That sounds like a great day out! You\u2019ll need something that\u2019s both
+    rugged and stylish enough to impress"
+  - "I want to look like I know my way around the outdoors, but also make sure I\u2019m
+    dressed right for a date"
+  - "No problem! Let\u2019s find the perfect balance between function and fashion"
+  _emotes:
+  - emote-frollicking
+  - 
+  - 
+  - 
+  _playerSpeakingList: 00010001
+  _speechAudio: {fileID: 11400000, guid: 0a3049ff75398004386f42314fe03b0c, type: 2}
+  _displayData: {fileID: 11400000, guid: 83465f861f0c3644a926c6d86705aea6, type: 2}
+  references:
+    version: 2
+    RefIds: []

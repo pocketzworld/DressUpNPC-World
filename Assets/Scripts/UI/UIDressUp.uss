@@ -1,0 +1,152 @@
+:root {
+    --text-shadow: 1px 1px 1px #9d9d9d;
+    --text-shadow-none: 0 0 0 transparent;
+}
+
+.dress-up {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center; /* Center children vertically */
+    justify-content: center; /* Center children horizontally */
+    position: absolute;
+    -unity-font-definition: url("project://database/Assets/Fonts/Montserrat-Regular SDF.asset");
+    text-shadow: var(--text-shadow);
+}
+
+.dress-up #_baseContainer {
+    width: 100%;
+    max-width: 500px;
+    height: 120px;
+    margin-left: 16px;
+    margin-right: 16px;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: flex-start;
+    bottom: 5px;
+    flex-direction: column;
+}
+
+.dress-up #_submitContainer {
+    width: 100%;
+    max-width: 500px;
+    height: 80px;
+    margin-left: 16px;
+    margin-right: 16px;
+    background-color: #212121;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+.dress-up #_goalContainer {
+    width: 80%;
+    max-width: 400px;
+    height: 40px;
+    background-color: #9035bb;
+    border-radius: 15px;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: center;
+    -unity-text-align: middle-center;
+}
+
+.landscape .dress-up #_goalContainer {
+    height: 30px;
+}
+
+.dress-up #_goalText{
+    white-space: normal;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.dress-up #_leftContainer{
+    width: 200px;
+    height: 100%;
+    top: 0px;
+}
+
+.dress-up #_submitButton{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+    background-color: #9035bb;
+    width: 130px;
+}
+
+/****** Fonts ********/
+
+.font14 {
+    font-size: 14px;
+}
+
+.font18 {
+    font-size: 18px;
+}
+
+.font26 {
+    font-size: 26px;
+}
+
+/****** End Fonts ****/
+
+/****** Colors ********/
+
+.color-white {
+    color: white;
+}
+
+.color-black {
+    color: black
+}
+
+.color-whitegray {
+    color: #9c9c9c;
+}
+
+.backgroundcolor-dressup-positive {
+    background-color: #9035bb
+}
+
+/****** End Colors ****/
+
+/****** Anchors ********/
+
+.fill-parent {
+    width: 100%;
+    height: 100%;
+}
+
+.bottomcenter-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 16px;
+}
+
+.bottomright-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+}
+
+.left-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0px;
+}
+
+.topcenter-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+}
+
+/****** End Anchors ****/

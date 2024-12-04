@@ -1,0 +1,313 @@
+:root {
+    --text-shadow: 1px 1px 1px black;
+    --text-shadow-none: 0 0 0 transparent;
+}
+
+.item-store {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    -unity-font-definition: url("project://database/Assets/Fonts/Montserrat-Regular SDF.asset");
+    text-shadow: var(--text-shadow);
+    white-space: normal;
+}
+
+.storecontent {
+    width: 95%;
+    max-width: 500px;
+    height: 70%;
+    background-color: #ffffff;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.storetitlesection {
+    height: 80px;
+    width: 100%;
+}
+
+.storeentryparent{
+    height: 100%;
+    width: 100%;
+}
+
+.storename {
+    margin-right: 2px;
+    margin-top: 4px;
+}
+
+.storeentry {
+    width: 90px;
+    height: 150px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.storeicon {
+    width: 100px;
+    height: 100px;
+}
+
+.divider{
+    height: 5px;
+    width: 100%;
+    background-color: black;
+}
+
+.storecostimage{
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.storeentrytop{
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.storeclose {
+    color: #302e30;
+    font-size: 26px;
+}
+
+.storecurrencybalance{
+    background-color: #302e30;
+    border-radius: 10px;
+    width: 80px;
+}
+
+.storeentryrow{
+    height: 160px;
+    width: 100%;
+}
+
+.storeicon{
+    width: 100%;
+    height: 100%;
+}
+
+.storeentrybot{
+    height: 70px;
+    width: 100%;
+    background-color: #302e30;
+    border-radius: 5px;
+}
+
+.absolute{
+    position:absolute;
+}
+/****** Fonts ********/
+
+.font12 {
+    font-size: 12px;
+}
+
+.font14 {
+    font-size: 14px;
+}
+
+.font16 {
+    font-size: 16px;
+}
+
+.font18 {
+    font-size: 18px;
+}
+
+.font22 {
+    font-size: 22px;
+}
+
+.font26 {
+    font-size: 26px;
+}
+
+/****** End Fonts ****/
+
+/****** Colors ********/
+
+.white {
+    color: white;
+}
+
+.red {
+    color: red;
+}
+
+.color-black {
+    color: black
+}
+
+.color-whitegray {
+    color: #9c9c9c;
+}
+
+.color-style {
+    color: #eac315
+}
+
+.purple {
+    background-color: #9035bb;
+}
+
+.green {
+    background-color: green;
+}
+
+.backgroundcolor-dressup-positive {
+    background-color: #9035bb;
+}
+
+.backgroundcolor-dressup-green {
+    background-color: green;
+}
+
+.backgroundcolor-edit {
+    background-color: #fec76f;
+}
+
+/****** End Colors ****/
+
+/****** Anchors ********/
+
+.fill-parent {
+    width: 100%;
+    height: 100%;
+}
+
+.centered {
+    align-items: center;
+    justify-content: center;
+}
+
+.flexstart {
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.horizontal-layout {
+    flex-direction: row;
+}
+
+.vertical-layout{
+    flex-direction: column;
+}
+
+.bottom{
+    position: absolute;
+    bottom: 16px;
+}
+
+.top{
+    position: absolute;
+    top: 16px;
+}
+
+.right{
+    position: absolute;
+    right: 16px;
+}
+
+.left{
+    position: absolute;
+    left: 16px;
+}
+
+.top-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 16px;
+}
+
+.bottomcenter-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 16px;
+}
+
+.bottomright-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+}
+
+.bottomleft-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 16px;
+    bottom: 16px;
+}
+
+.left-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0px;
+}
+
+.right-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+}
+
+.topright-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+/****** End Anchors ****/
+
+.loading-spinner {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    width: 64px;
+    height: 64px;
+    top: 45%;
+    left: 45%;
+    background-image: url("project://database/Assets/Art/spinner.png")
+}
+
+.spinnerparent{
+}
+
+.wrap {
+    white-space: normal;
+}
+
+.space16{
+    height:16px;
+    width:16px;
+}
+
+.modal {
+    background-color: #000000;
+    opacity: 0.7;
+}
+
+.centered {
+    align-items: center;
+    justify-content: center;
+}
+
+.centertext {
+    -unity-text-align: middle-center;
+}

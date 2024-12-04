@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_ItemReward_02
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: glasses-n_10
+    _paletteId: -1
+  - _descriptorId: glasses-n_room12019circleshades
+    _paletteId: -1
+  - _descriptorId: glasses-n_room32019smallshades
+    _paletteId: -1
+  - _descriptorId: hat-n_room22019headphonesblack_1
+    _paletteId: -1
+  - _descriptorId: handbag-n_room22019rose
+    _paletteId: -1
+  - _descriptorId: handbag-n_froglifeskypass2023plushpillow
+    _paletteId: -1
+  - _descriptorId: hat-f_wonderwoman_1
+    _paletteId: -1
+  - _descriptorId: bag-f_foxtail
+    _paletteId: -1
+  - _descriptorId: watch-m_rockerboy
+    _paletteId: -1
+  - _descriptorId: bag-f_snowwoman
+    _paletteId: -1
+  - _descriptorId: glasses-n_14
+    _paletteId: -1
+  - _descriptorId: watch-n_10
+    _paletteId: -1
+  - _descriptorId: necklace-f_07
+    _paletteId: -1
+  - _descriptorId: necklace-f_06
+    _paletteId: -1
+  - _descriptorId: handbag-f_04
+    _paletteId: -1
+  - _descriptorId: handbag-f_03
+    _paletteId: -1
+  - _descriptorId: handbag-f_07
+    _paletteId: -1
+  - _descriptorId: hat-n_blackfedora
+    _paletteId: -1
+  - _descriptorId: hat-n_yellowneonhat_2
+    _paletteId: -1
+  - _descriptorId: hat-n_bearhat_3
+    _paletteId: -1
+  - _descriptorId: hat-n_floppyhat_1
+    _paletteId: -1
+  - _descriptorId: handbag-n_froggyumbrella
+    _paletteId: -1
+  - _descriptorId: hat-n_2016madscientistmadbuldgoggle_1
+    _paletteId: -1
+  - _descriptorId: necklace-n_2016magicschoolscarfred
+    _paletteId: -1
+  - _descriptorId: necklace-n_2016magicschoolscarfgreen
+    _paletteId: -1
+  - _descriptorId: bag-n_sparklingsanta2016sparklingcape
+    _paletteId: -1

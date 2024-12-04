@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_Task_08_Shoes
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: shoes-n_promperfectudcrewards022024kiyokikishoes
+    _paletteId: -1
+  - _descriptorId: shoes-n_capsulewardrobe2024tteabaggfuzzyslipperspink
+    _paletteId: -1
+  - _descriptorId: shoes-n_2021recolorgrab02faebutterflywrapheels
+    _paletteId: -1
+
+  - _descriptorId: shoes-n_room22019kneehighsblack
+    _paletteId: -1
+  - _descriptorId: shoes-n_registrationavatars2023arianaboots
+    _paletteId: -1
+  - _descriptorId: shoes-f_classicflat_white
+    _paletteId: -1

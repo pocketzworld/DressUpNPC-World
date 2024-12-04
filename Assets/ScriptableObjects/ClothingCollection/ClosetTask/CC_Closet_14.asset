@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_Closet_14
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: shirt-n_2016madscientistchemcoat
+    _paletteId: -1
+  - _descriptorId: shirt-n_2016madscientistbpoisonshirtblack
+    _paletteId: -1
+  - _descriptorId: shirt-n_musicfestivalfashion2019blackcroptop
+    _paletteId: -1
+  - _descriptorId: shirt-n_summerweenstandgrab2024felineskellytop
+    _paletteId: -1
+  - _descriptorId: shirt-n_monochromevaultgrab2024pt2croptopblack
+    _paletteId: -1
+  - _descriptorId: shirt-n_dieselassassingrab2024slashedcropgreen
+    _paletteId: -1
+  - _descriptorId: shirt-n_dieselassassingrab2024slashedcrop
+    _paletteId: -1
+  - _descriptorId: dress-n_creaturesofthenightudcgrabtwo2024cottexnekotyanbatwingsdress
+    _paletteId: -1
+  - _descriptorId: shirt-n_cosmiccool2024yuppistardress
+    _paletteId: -1
+  - _descriptorId: dress-n_summurcollectur2024_dress
+    _paletteId: -1
+  - _descriptorId: dress-n_chromevaultudceventrewardstwo2024chromegogodress
+    _paletteId: -1
+  - _descriptorId: shirt-n_musicfest2019pinkbikiniandfur
+    _paletteId: -1
+  - _descriptorId: shirt-n_queeraliensgrab2021oilslicktopandjacket
+    _paletteId: -1
+  - _descriptorId: shirt-n_alienscrewrewards2020rainbowcrop
+    _paletteId: -1
+  - _descriptorId: dress-n_cutevscreepyudciap2024cozykittypurplecrossdress
+    _paletteId: -1
+  - _descriptorId: dress-n_febiapsalesii2024purpleslimeydress
+    _paletteId: -1
+  - _descriptorId: dress-n_tricksandtreatspartipationrewards2023daretojoindoomdoomie
+    _paletteId: -1
+  - _descriptorId: shirt-n_blackwhitevault2024floraltwopiece
+    _paletteId: -1
+  - _descriptorId: shirt-n_sadspring2020floraldress
+    _paletteId: -1
+  - _descriptorId: shoes-n_2016madscientistchemshoes
+    _paletteId: -1
+  - _descriptorId: shoes-n_muthurstaplessale2024_y2kpurpleleopard
+    _paletteId: -1
+  - _descriptorId: shoes-n_slimecollection2024_purpleplat
+    _paletteId: -1
+  - _descriptorId: shoes-n_elixirwintercollection2022purpletwobucklesboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_purplepunk19purpleboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_hrliverehalloweencolors2023livesneackerspurple
+    _paletteId: -1
+  - _descriptorId: shoes-n_drstompsboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_creaturesotnightgb12024webdarkconv
+    _paletteId: -1
+  - _descriptorId: shoes-n_hcchectoplasmcollection2024dizzychunks
+    _paletteId: -1
+  - _descriptorId: shoes-n_tricksandtreats02udcgrabone2024satanleikillertighhighs
+    _paletteId: -1
+  - _descriptorId: shoes-n_daaudcgrab2024riotvanbwbootsandsocks
+    _paletteId: -1
+  - _descriptorId: shoes-n_spookify3udcgrab022024yuppispookybearlippers
+    _paletteId: -1
+  - _descriptorId: shoes-n_shoeboxudc2024spikeboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_shoeriseudcevereward2024maxdxiiconversechunks
+    _paletteId: -1
+  - _descriptorId: eye-n_2016madscientistsleepyeyes
+    _paletteId: -1
+  - _descriptorId: freckle-n_musicfestivalfashion2019facepattern
+    _paletteId: -1
+  - _descriptorId: mouth-vip_f_01
+    _paletteId: -1
+  - _descriptorId: mouth-n_musicfest2019spidermouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_lovelettersgrab2024shane228musicoflove
+    _paletteId: -1
+  - _descriptorId: mouth-n_itcrowdfashionpartyrewards2022_shimmermouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_tricksandtreatsgrabone2023brixsimonsterpartyenergy
+    _paletteId: -1
+  - _descriptorId: mouth-n_udcredesignpartrewards2022ikaoridoublepiercedbabylips
+    _paletteId: -1
+  - _descriptorId: mouth-n_jewelriseudcgrab2023poppianapiercedpout
+    _paletteId: -1
+  - _descriptorId: eye-n_elixirwintercollection2022purplegraphicliner
+    _paletteId: -1
+  - _descriptorId: eye-n_purplepunk19smudgedpurpleeyes
+    _paletteId: -1
+  - _descriptorId: eye-n_spookify3udcgrab022024vampsitybloodlusteyes
+    _paletteId: -1
+  - _descriptorId: freckle-n_darkfairygrab2022fairyeyetat
+    _paletteId: -1
+  - _descriptorId: freckle-n_60sdecadesrewards2021peaceblush
+    _paletteId: -1
+  - _descriptorId: freckle-n_skaterrewards2021bandaidcheek
+    _paletteId: -1
+  - _descriptorId: freckle-n_celestialastrologistgrab2021visualeye
+    _paletteId: -1
+  - _descriptorId: skirt-n_2016madscientistchemskirt
+    _paletteId: -1
+  - _descriptorId: pants-n_2016madscientistmadpants
+    _paletteId: -1
+  - _descriptorId: skirt-n_celestialscrewards2021blackholegalacticuniformskirt
+    _paletteId: -1
+  - _descriptorId: skirt-n_julyrubydailies2020rubyskirt
+    _paletteId: -1
+  - _descriptorId: skirt-n_cutealien2017dress
+    _paletteId: -1
+  - _descriptorId: skirt-n_gothmallgrab2022chainbeltplaidskirt
+    _paletteId: -1
+  - _descriptorId: skirt-n_gothsummer19moonskirt
+    _paletteId: -1
+  - _descriptorId: skirt-n_nugothrewards2020beltedskirt
+    _paletteId: -1
+  - _descriptorId: pants-n_gothanchorstore2022cargopants
+    _paletteId: -1
+  - _descriptorId: pants-n_teenoutcastsiiudcgrab012024nikanashortsblack
+    _paletteId: -1
+  - _descriptorId: pants-n_teenoutcastrwrdsone2024nekkotabaggytribal
+    _paletteId: -1
+  - _descriptorId: pants-n_mockeririseapaloozaudc2023silvershorts
+    _paletteId: -1
+  - _descriptorId: pants-n_anywayyouwantitparticipation2023thickflares
+    _paletteId: -1
+  - _descriptorId: pants-n_spritesandspitedarkdemons2023shorts
+    _paletteId: -1
+  - _descriptorId: pants-n_prideriseudcparticipationrewards2023rainbowdrip
+    _paletteId: -1
+  - _descriptorId: pants-n_musiccelebrity19billiepants
+    _paletteId: -1
+  - _descriptorId: pants-n_Aliens2018galacticleggings
+    _paletteId: -1
+  - _descriptorId: pants-n_alienbohograb2020bohoflarepants
+    _paletteId: -1
+  - _descriptorId: hat-n_2016madscientistchemmaskblack_1
+    _paletteId: -1
+  - _descriptorId: hat-n_2016madscientistchemmask_1
+    _paletteId: -1
+  - _descriptorId: hat-n_2016madscientistmadbuldhat_1
+    _paletteId: -1
+  - _descriptorId: handbag-n_2016madscientistkey1
+    _paletteId: -1
+  - _descriptorId: handbag-n_2016madscientistmadcat
+    _paletteId: -1
+  - _descriptorId: hat-n_bengalcatrewards2022cattysunglasses
+    _paletteId: -1
+  - _descriptorId: glasses-n_kawaiigoth2018sunglasses
+    _paletteId: -1
+  - _descriptorId: hat-n_dollhousebarbiegrab2022sunglasses
+    _paletteId: -1
+  - _descriptorId: gloves-n_prideshop2020progressprideflag
+    _paletteId: -1
+  - _descriptorId: handbag-n_alienscrewrewards2020sign
+    _paletteId: -1
+  - _descriptorId: hat-n_glowupdonaterewards012024ipixheartpixelglasses
+    _paletteId: -1
+  - _descriptorId: handbag-n_glowupdonaterewards012024ipixpotionbottlehand
+    _paletteId: -1
+  - _descriptorId: bag-n_musicfestivalfashion2019whitewings
+    _paletteId: -1
+  - _descriptorId: hat-n_musicSCeventsale2021buckethat
+    _paletteId: -1
+  - _descriptorId: hat-n_musiccelebrity19lilnashat
+    _paletteId: -1
+  - _descriptorId: bag-n_millenniumglitchdonategrab022023wings
+    _paletteId: -1
+  - _descriptorId: hat-n_moonlightphantomschaseitems2024nabothaspiderwitchhat
+    _paletteId: -1
+  - _descriptorId: hat-hrlivenew2024visorpurple
+    _paletteId: -1
+  - _descriptorId: hat-n_hcclandsalegrab2022purplegages
+    _paletteId: -1
+  - _descriptorId: hair_front-n_2016madscientistlonghair
+    _paletteId: -1
+  - _descriptorId: hair_front-n_candycoregb12024brixsilaurast3rnedgydoublebuns
+    _paletteId: -1
+  - _descriptorId: hair_front-n_costumepartyllludcgrabone2024felinebuns
+    _paletteId: -1
+  - _descriptorId: hair_front-n_artistsloungexvudcgrab2024di0nysusacademybraid
+    _paletteId: -1
+  - _descriptorId: hair_front-n_baddieeragrabtwo2024babydopemonstertightbraids
+    _paletteId: -1
+  - _descriptorId: hair_front-n_cowvsaliencrewreward2022pointybuns
+    _paletteId: -1
+  - _descriptorId: hair_front-n_takeyourpickiigrabone2024theceliabunshair
+    _paletteId: -1
+  - _descriptorId: hair_front-n_hrideasfunded2024pretenddoublebraids
+    _paletteId: -1
+  - _descriptorId: hair_front-n_lambistarprincess2022starshapedbuns
+    _paletteId: -1

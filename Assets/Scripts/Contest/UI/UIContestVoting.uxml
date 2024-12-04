@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="UnityEngine.UIElements"
+    xmlns:hr="Highrise.UI"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd"
+>
+
+  <hr:UILuaView class="contest-voting">
+    <VisualElement name="_loadSpinnerParent" class="fill-parent"/>
+    <VisualElement name="_leftPanel" class="choicepanel">
+      <VisualElement name="_leftStarContainer" class="right-anchor" picking-mode="Ignore" />
+    </VisualElement>
+    <VisualElement name="_rightPanel" class="choicepanel">
+      <VisualElement name="_rightStarContainer" class="left-anchor" picking-mode="Ignore"/>
+    </VisualElement>
+    <Label name="_backButton" text="Back" class="topleft-anchor color-whitegray absolute"/>
+
+    <VisualElement name="_bottomPanel" class="bottomcenter-anchor vertical-layout centered">
+      <Label name="_callToAction" text="Pick the outfit best matching the style category" class="font14 color-black wrap" picking-mode="Ignore"/>
+      <VisualElement class="fill-parent horizontal-layout centered">
+        <Label name="_voteTicketRecord" class="left-anchor font16 color-black" picking-mode="Ignore"/>
+        <Label name="_styleLabel" class="font22 color-style" picking-mode="Ignore"/>
+        <Label name="_skipButton" text="Skip" class="right-anchor font16 color-whitegray"/>
+      </VisualElement>
+    </VisualElement>
+
+    <VisualElement name="_ticketRewardDisplay" class="bottomleft-anchor horizontal-layout centered">
+      <Label text="+1" class="font16 color-black" picking-mode="Ignore"/>
+      <Image class="ticketIcon" picking-mode="Ignore"/>
+    </VisualElement>
+
+  </hr:UILuaView>
+
+</UXML>

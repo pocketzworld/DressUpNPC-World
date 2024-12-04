@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_Task_00_Dress
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: shirt-n_sweaterudcstandalonegrab2022clubcountrydeconstructedsweaterdress
+    _paletteId: -1
+  - _descriptorId: shirt-n_masqueradeballparticipationrewardsprank2023leathercoat
+    _paletteId: -1
+  - _descriptorId: shirt-n_artistloungexigrab2024xblssdsourdinewschooluniform
+    _paletteId: -1
+
+  - _descriptorId: hat-n_camocombatparticipationrewards2022combatbuckleberet
+    _paletteId: -1
+  - _descriptorId: glasses-n_schooljournalism2019tortoiseglasses
+    _paletteId: -1
+  - _descriptorId: hat-n_lexyschoolaesthetics2021heartglasses
+    _paletteId: -1
+  - _descriptorId: body-flesh
+    _paletteId: 25
+  - _descriptorId: mouth-n_onceuponatimegrab2023royalsmirk
+    _paletteId: 8
+  - _descriptorId: nose-n_03_b
+    _paletteId: 0
+  - _descriptorId: eyebrow-n_21
+    _paletteId: 4
+  - _descriptorId: aura-n_npcglowupudcgrabone2024devilcraftcasino
+    _paletteId: 0
+  - _descriptorId: bag-n_npcglowupudcgrabone2024devilcraftcapejacket
+    _paletteId: 0
+  - _descriptorId: eye-n_npcglowupudcgrabone2024devilcraftfemeyes
+    _paletteId: 22
+  - _descriptorId: hair_front-n_npcglowupudcgrabone2024devilcraftfemhair
+    _paletteId: 88
+  - _descriptorId: hat-n_npcglowupudcgrabone2024devilcraftdevilhalo
+    _paletteId: 0
+  - _descriptorId: shirt-n_npcglowupudcgrabone2024devilcrafttightdress
+    _paletteId: 0
+  - _descriptorId: shoes-n_npcglowupudcgrabone2024devilcraftboots
+    _paletteId: 0
+  - _descriptorId: hair_back-n_npcglowupudcgrabone2024devilcraftfemhair
+    _paletteId: 88
+  - _descriptorId: dress-f_empirewaist
+    _paletteId: -1
+  - _descriptorId: dress-f_strapless
+    _paletteId: -1
+  - _descriptorId: dress-f_queendress
+    _paletteId: -1

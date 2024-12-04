@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_Closet_12
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: pants-n_weddingudcopiah2022groombootypants
+    _paletteId: -1
+  - _descriptorId: pants-n_gothsummer19swimtrunks
+    _paletteId: -1
+  - _descriptorId: pants-n_kawaiigothrewards2018scskulllegging
+    _paletteId: -1
+  - _descriptorId: pants-n_legograb2018colorblockpants
+    _paletteId: -1
+  - _descriptorId: pants-n_pjpartyudcgrab022024maxdxiilazypants
+    _paletteId: -1
+  - _descriptorId: pants-n_pjpartyudcevepartrewar2024plaidpants
+    _paletteId: -1
+  - _descriptorId: pants-n_hcchellhoundgrab2024blackbeltspantsm
+    _paletteId: -1
+  - _descriptorId: pants-n_hcchellhoundchaseitems2024ixiujivampyshorts
+    _paletteId: -1
+  - _descriptorId: pants-n_creaturesofthenightudccrewrewards2024rippedbaggypants
+    _paletteId: -1
+  - _descriptorId: pants-n_cosmiccool2024galaxyshorts
+    _paletteId: -1
+  - _descriptorId: pants-n_tidaltreasuresminievent2024shortsblack
+    _paletteId: -1
+  - _descriptorId: pants-n_teenoutcastsscgrab12023bwpants
+    _paletteId: -1
+  - _descriptorId: pants-n_monochromevaultgrab2024khakizippercargosblack
+    _paletteId: -1
+  - _descriptorId: pants-n_itcrowdscgrab2022blackloosejoggers
+    _paletteId: -1
+  - _descriptorId: pants-n_septemberartistlounge4grabkatelinyeeblackpants
+    _paletteId: -1
+  - _descriptorId: shirt-n_udctietheknotrewards2022blacktuxedo
+    _paletteId: -1
+  - _descriptorId: shirt-n_pjpartyudcgrab022024stuffdesigngrayshirt
+    _paletteId: -1
+  - _descriptorId: shirt-n_chromevaultgrab22024huskyya90ssweaterchrome
+    _paletteId: -1
+  - _descriptorId: shirt-n_subscribercontentrecolors2024cutecatmaleshirtblackver
+    _paletteId: -1
+  - _descriptorId: shirt-n_rookiebreakoutluckyspineventsale2024hoodie
+    _paletteId: -1
+  - _descriptorId: shirt-n_hottakegrabtwo2024ayaatoblackgothicshirt
+    _paletteId: -1
+  - _descriptorId: shirt-n_witchschoolrewards19satanicschoolcardigan
+    _paletteId: -1
+  - _descriptorId: shirt-n_tidaltreasuresminievent2024animeshirtblack
+    _paletteId: -1
+  - _descriptorId: shirt-n_muthurstore2024_blackwaistcoat
+    _paletteId: -1
+  - _descriptorId: shirt-n_vintagevalutblackwhiteset2023blackturtleneck
+    _paletteId: -1
+  - _descriptorId: shirt-n_favoritethingsredesign2023trackjacket
+    _paletteId: -1
+  - _descriptorId: shirt-n_creaturesofthenightudcgrabtwo2024spidermuscleshirt
+    _paletteId: -1
+  - _descriptorId: shirt-n_monochromevaultgrab2024pt3muscleshirt
+    _paletteId: -1
+  - _descriptorId: shirt-prehistoricparticipationrewards2022musclecavemantank
+    _paletteId: -1
+  - _descriptorId: shirt-n_gothpirategrab2021leathercoat
+    _paletteId: -1
+  - _descriptorId: hat-n_blackfedora
+    _paletteId: -1
+  - _descriptorId: hat-n_room22019beanieblack_1
+    _paletteId: -1
+  - _descriptorId: hat-n_dolldonatedarkdollgrab2022hat
+    _paletteId: -1
+  - _descriptorId: hat-n_gothicprankgrabtwo2024jackscoldsweatears
+    _paletteId: -1
+  - _descriptorId: hat-n_monochromevaultgrab2024pt4blackbackwardscap
+    _paletteId: -1
+  - _descriptorId: hat-n_returnofcasino2019brucehat_1
+    _paletteId: -1
+  - _descriptorId: handbag-n_dragonadventurecrew2023bigaxe
+    _paletteId: -1
+  - _descriptorId: handbag-n_zombiehuntergrab2023redchainsaw
+    _paletteId: -1
+  - _descriptorId: handbag-n_camping2017walkingstick
+    _paletteId: -1
+  - _descriptorId: handbag-n_catsvdogscorgirewards2022bottle
+    _paletteId: -1
+  - _descriptorId: handbag-n_canadaday2021moosecrossing
+    _paletteId: -1
+  - _descriptorId: glasses-n_sunnyshop2024loshukchainstarglasses
+    _paletteId: -1
+  - _descriptorId: glasses-n_sunnyshop2024shane228studdedglasses
+    _paletteId: -1
+  - _descriptorId: glasses-n_baseball2017sportsunglasses
+    _paletteId: -1
+  - _descriptorId: shoes-n_dealerblackshoes
+    _paletteId: -1
+  - _descriptorId: shoes-n_creaturesofthenightudcgrabtwo2024dionysusracoonslippers
+    _paletteId: -1
+  - _descriptorId: shoes-n_hrcchrlivewitchdrop2024witchbootsilver
+    _paletteId: -1
+  - _descriptorId: shoes-n_shoeboxcampaign2024larkzeildrsneakersblack
+    _paletteId: -1
+  - _descriptorId: shoes-n_shoeriseudcevereward2024uraanusstreetrunner
+    _paletteId: -1
+  - _descriptorId: shoes-n_registrationavatars2023furrysneakers
+    _paletteId: -1
+  - _descriptorId: shoes-n_redesignagrabrwds032024irensasneaker
+    _paletteId: -1
+  - _descriptorId: shoes-n_earthdayhcc2024blackboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_takeyourpicluckyspineventsale2024boots
+    _paletteId: -1
+  - _descriptorId: shoes-n_dealerblackshoes
+    _paletteId: -1
+  - _descriptorId: hair_front-m_22
+    _paletteId: -1
+  - _descriptorId: hair_front-n_hairrisegrab12024mvashslick
+    _paletteId: -1
+  - _descriptorId: hair_front-n_summerweenstandgrab2024tunaxslickhair
+    _paletteId: -1
+  - _descriptorId: hair_front-n_tunaxegyptiangrab2022slickwethair
+    _paletteId: -1
+  - _descriptorId: hair_front-n_tunaxbrandgrabmar2022_slickbackbun
+    _paletteId: -1
+  - _descriptorId: mouth-n_2016vampireteeth
+    _paletteId: -1
+  - _descriptorId: eye-n_emorewards2017eyelinereyes
+    _paletteId: -1
+  - _descriptorId: eye-n_guyrisescudcgrab22023darkenoughthineyesoutlined
+    _paletteId: -1
+  - _descriptorId: eye-n_artistloungeudceatyourvegetables2023thiiceyeliner
+    _paletteId: -1
+  - _descriptorId: eye-n_vintagethriftskypasspartthree2022guyliner
+    _paletteId: -1
+  - _descriptorId: mouth-n_vampgothgrab2020happymouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_fangsfurvampirejolly2023vampimouth
+    _paletteId: -1
+  - _descriptorId: mouth-basic2018fulllowerround
+    _paletteId: -1
+  - _descriptorId: mouth-n_guyriseudccrewmodelrewards2023evnroskishmouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_guyrisescudcgrab22023starduztsoftsmirk
+    _paletteId: -1
+  - _descriptorId: face_hair-n_guyriseiigrab012024ruggedbeard
+    _paletteId: -1
+  - _descriptorId: face_hair-n_newbasicfacehairlower18
+    _paletteId: -1
+  - _descriptorId: freckl-n_sharpfaceshadow
+    _paletteId: -1
+  - _descriptorId: blush-n_filmnoirgrab2021cheeks
+    _paletteId: -1

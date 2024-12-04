@@ -1,0 +1,50 @@
+{
+  "IncludeFallbacks": true,
+  "Skeleton": "",
+  "Clothing": [
+    {
+      "Id": "body-flesh",
+      "Color": 71
+    },
+    {
+      "Id": "hair_front-n_npcglowupeventrewards022024zimexplorercolorlocks",
+      "Color": 1
+    },
+    {
+      "Id": "hair_back-n_npcglowupeventrewards022024zimexplorercolorlocks",
+      "Color": 1
+    },
+    {
+      "Id": "eyebrow-n_catvsdogleobubblegrab2022scarbrows",
+      "Color": 1
+    },
+    {
+      "Id": "freckle-n_stpattys2017sunkissedfreckles",
+      "Color": 0
+    },
+    {
+      "Id": "shirt-n_jungleexplorer2020explorercroptop",
+      "Color": 0
+    },
+    {
+      "Id": "bag-n_earthdayhcc2024backpackblue",
+      "Color": -1
+    },
+    {
+      "Id": "pants-n_earthdayhcc2024shortsgreen",
+      "Color": 0
+    },
+    {
+      "Id": "shoes-n_earthdayhcc2024boots",
+      "Color": 0
+    },
+    {
+      "Id": "hat-n_prehistoricdonatebonegrab2022explorerhat",
+      "Color": -1
+    },
+    {
+      "Id": "nose-n_atheleisuregothgrab2020bandagedpiercednose",
+      "Color": 0
+    }
+  ]
+}

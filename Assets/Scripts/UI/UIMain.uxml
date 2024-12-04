@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="UnityEngine.UIElements"
+    xmlns:hr="Highrise.UI"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd"
+>
+
+  <hr:UILuaView name="_root" class="main" picking-mode="Ignore">
+    <VisualElement name="uiTop" class="hud-top" picking-mode="Ignore">
+    </VisualElement>
+    <VisualElement name="uiRight" class="hud-right" picking-mode="Ignore">
+    </VisualElement>
+    <VisualElement name="uiBottom" class="hud-bottom" picking-mode="Ignore">
+    </VisualElement>
+    <VisualElement name="uiContent" class="ui-content" picking-mode="Ignore">
+    </VisualElement>
+  </hr:UILuaView>
+
+</UXML>

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 258248712, guid: a215bd465061e3c4abe0b86c7c8c3d14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _assetMappings:
+  - Guid: 1b8d8a42d626a164887a63d83cee0130
+    StoreId: 6658b69e6e9f2ad62c40e724
+    Name: Cherry Tree 1
+    ThumbnailUrl: https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/world_builder_assets/647622d2106a74bac609d8ea/6658b69e6e9f2ad62c40e724/18fca898428_0.jpg
+    AdditionalAssetGUIDs: []
+  - Guid: cd8c8e9763905a44eab1c8b96afaed86
+    StoreId: 6658b6856e9f2ad62c40e722
+    Name: Cherry Pot
+    ThumbnailUrl: https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/world_builder_assets/647622d2106a74bac609d8ea/6658b6856e9f2ad62c40e722/18fca892668_0.jpg
+    AdditionalAssetGUIDs: []
+  - Guid: 49d4d6318d0e0aa41b0bd5ef981dc5a9
+    StoreId: 6658b6df6e9f2ad62c40e727
+    Name: Cherry Petals 1
+    ThumbnailUrl: https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/world_builder_assets/647622d2106a74bac609d8ea/6658b6df6e9f2ad62c40e727/18fca8a89e0_0.jpg
+    AdditionalAssetGUIDs: []
+  - Guid: 60524290434db0d449c04c6e28ac1b6a
+    StoreId: 6658b6f56e9f2ad62c40e729
+    Name: Cherry Petals 2
+    ThumbnailUrl: https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/world_builder_assets/647622d2106a74bac609d8ea/6658b6f56e9f2ad62c40e729/18fca8b8bb0_0.jpg
+    AdditionalAssetGUIDs: []
+  - Guid: d5100e84ff54eba45840f4f98804752f
+    StoreId: 6658c10f6e9f2ad62c40e779
+    Name: Kawaii Fountain
+    ThumbnailUrl: https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/world_builder_assets/647622d2106a74bac609d8ea/6658c10f6e9f2ad62c40e779/18fcab268e8_0.jpg
+    AdditionalAssetGUIDs: []
+  - Guid: 166b9da38e6b0934d9373bf5bddcaaa4
+    StoreId: 6658da856e9f2ad62c40e803
+    Name: Awning Large
+    ThumbnailUrl: https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/world_builder_assets/647622d2106a74bac609d8ea/6658da856e9f2ad62c40e803/18fcb15bab0_0.jpg
+    AdditionalAssetGUIDs: []

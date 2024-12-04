@@ -1,0 +1,66 @@
+{
+    "IncludeFallbacks": true,
+    "Skeleton": "",
+    "Clothing": [
+        {
+            "Id": "body-flesh",
+            "Color": 4
+        },
+        {
+            "Id": "freckle-n_eyerise2021ravennessblush",
+            "Color": 0
+        },
+        {
+            "Id": "eye-n_EliiizaTunaXschoolaesthetics2021eyeroll",
+            "Color": 7
+        },
+        {
+            "Id": "nose-n_poppybrandgrab2022blushednose",
+            "Color": 0
+        },
+        {
+            "Id": "eyebrow-n_versaceantipromgrab2021browsonfleek",
+            "Color": 2
+        },
+        {
+            "Id": "shoes-n_hrontourpopidolsgrab2022darkboots",
+            "Color": 0
+        },
+        {
+            "Id": "shirt-n_fallfavoritesscsalerare2022turtleneckshrugwithbra",
+            "Color": 0
+        },
+        {
+            "Id": "tattoo-n_darkfairyrewards2022fullrosetats",
+            "Color": 0
+        },
+        {
+            "Id": "pants-n_gothgrab2022overalls",
+            "Color": 0
+        },
+        {
+            "Id": "hair_front-n_barackobanterspringgrab2020lowponywavy",
+            "Color": 2
+        },
+        {
+            "Id": "hair_back-n_barackobanterspringgrab2020lowponywavy",
+            "Color": 2
+        },
+        {
+            "Id": "mouth-n_moicpinkballgrab2023mouth",
+            "Color": 3
+        },
+        {
+            "Id": "hat-n_room22019beanieblack_1",
+            "Color": 0
+        },
+        {
+            "Id": "hat-n_freshfaceddonategrab012023arcanevapetattooears",
+            "Color": 0
+        },
+        {
+            "Id": "glasses-n_junef2pcollection2024glassesblack",
+            "Color": 0
+        }
+    ]
+}

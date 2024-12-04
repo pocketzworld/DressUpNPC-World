@@ -1,0 +1,18 @@
+{
+  "IncludeFallbacks": true,
+  "Skeleton": "",
+  "Clothing": [
+    {
+      "Id": "earrings-n_room12019goldhoops",
+      "Color": -1
+    },
+    {
+      "Id": "shoes-n_room22019kneehighsblack",
+      "Color": 0
+    },
+    {
+      "Id": "dress-f_empirewaist",
+      "Color": -1
+    }
+  ]
+}

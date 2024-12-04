@@ -1,0 +1,62 @@
+{
+    "IncludeFallbacks": true,
+    "Skeleton": "",
+    "Clothing": [
+        {
+            "Id": "body-flesh",
+            "Color": 1
+        },
+        {
+            "Id": "nose-n_01",
+            "Color": 0
+        },
+        {
+            "Id": "mouth-vip_f_01",
+            "Color": 0
+        },
+        {
+            "Id": "shirt-n_2016madscientistchemcoat",
+            "Color": 0
+        },
+        {
+            "Id": "eye-n_2016madscientistsleepyeyes",
+            "Color": 0
+        },
+        {
+            "Id": "eyebrow-n_02",
+            "Color": 0
+        },
+        {
+            "Id": "handbag-n_2016madscientistkey1",
+            "Color": 0
+        },
+        {
+            "Id": "hat-n_2016madscientistchemmaskblack_1",
+            "Color": 0
+        },
+        {
+            "Id": "skirt-n_2016madscientistchemskirt",
+            "Color": 0
+        },
+        {
+            "Id": "shoes-n_2016madscientistchemshoes",
+            "Color": 0
+        },
+        {
+            "Id": "hat-n_2016madscientistmadbuldhat_1",
+            "Color": 0
+        },
+        {
+            "Id": "hat-n_glowupdonaterewards012024ipixheartpixelglasses",
+            "Color": 0
+        },
+        {
+            "Id": "hair_front-n_2016madscientistlonghair",
+            "Color": 13
+        },
+        {
+            "Id": "hair_back-n_2016madscientistlonghair",
+            "Color": 13
+        }
+    ]
+}

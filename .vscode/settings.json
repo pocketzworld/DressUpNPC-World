@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/*.meta": true
+    },
+    "dotnet.defaultSolution": "DressUpNPCs.sln",
+    "stylua.targetReleaseVersion": "latest"
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="UnityEngine.UIElements"
+    xmlns:hr="Highrise.UI"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd"
+>
+
+  <hr:UILuaView name="_root" class="contest">
+    <VisualElement name="_closeOverlay"/>
+    <VisualElement name="_content" picking-mode="Ignore">
+      <VisualElement name="_loadSpinnerParent"/>
+      <VisualElement name="_displayContent">
+
+        <VisualElement name="_tabs" class="horizontal-layout centered">
+          <VisualElement name="_tabContest" class="tab-button">
+            <Label text="Contest" class="font18 color-black" picking-mode="Ignore"/>
+          </VisualElement>
+          <VisualElement name="_tabVoting" class="tab-button">
+            <Label text="Voting" class="font18 color-black" picking-mode="Ignore"/>
+          </VisualElement>
+          <VisualElement name="_tabResults" class="tab-button">
+            <Label text="Results" class="font18 color-black" picking-mode="Ignore"/>
+            <VisualElement name="_resultsNotification" class="notification absolute"/>
+          </VisualElement>
+        </VisualElement>
+
+        <VisualElement name="_contestTabContent" class="fill-parent tab-container">
+          <VisualElement name="_contestContent" class="fill-parent">
+            <Label name="_title" class="font26 color-black wrap" picking-mode="Ignore"/>
+            <Label name="_styleLabel" class="font22 color-style wrap" picking-mode="Ignore"/>
+            <Label name="_endTimeLabel" class="font18 color-whitegray wrap" picking-mode="Ignore"/>
+          </VisualElement>
+          <VisualElement class="horizontal-layout fill-parent centered">
+            <Label name="_ticketLabel" class="font18 color-black" picking-mode="Ignore"/>
+            <Image class="ticketButtonIcon" picking-mode="Ignore"/>
+          </VisualElement>
+          <Label name="_enteredContestLabel" text="You have entered this contest" class="bottomcenter-anchor font18 color-black wrap" picking-mode="Ignore"/>
+          <hr:UIButton name="_enterButton" class="standard-button bottomcenter-anchor horizontal-layout backgroundcolor-dressup-green">
+            <Label text="Dress Up" class="font18 color-white" picking-mode="Ignore"/>
+            <Image class="ticketButtonIcon" picking-mode="Ignore"/>
+            <Label text="77" name="_enterCurrencyName" class="font18 color-white" picking-mode="Ignore"/>
+          </hr:UIButton>
+        </VisualElement>
+
+        <VisualElement name="_votingTabContent" class="fill-parent tab-container">
+          <VisualElement class="space16"/>
+          <Label text="Vote on outfits that best match the style category" class="font18 color-black wrap" picking-mode="Ignore"/>
+          <VisualElement class="space16"/>
+          <Label name="_styleVotingLabel" class="font22 color-style wrap" picking-mode="Ignore"/>
+          <VisualElement class="bottomcenter-anchor vertical-layout">
+            <Label text="You will earn 1 ticket every 5 votes" class="font16 color-black" picking-mode="Ignore"/>
+            <VisualElement class="space16"/>
+            <hr:UIButton name="_voteButton" class="standard-button backgroundcolor-dressup-positive">
+              <Label text="Vote" class="font18 color-white" picking-mode="Ignore"/>
+            </hr:UIButton>
+          </VisualElement>
+        </VisualElement>
+
+        <VisualElement name="_resultsTabContent" class="fill-parent tab-container">
+          <VisualElement name="_contestListContent" class="fill-parent">
+            <VisualElement class="space16"/>
+          </VisualElement>
+        </VisualElement>
+      </VisualElement>
+
+      <VisualElement name="_submitContent" class="topright-anchor">
+        <VisualElement class="bottomcenter-anchor vertical-layout">
+          <hr:UIButton name="_editButton" class="standard-button backgroundcolor-edit">
+            <Label text="Edit the Look" class="font18 color-white" picking-mode="Ignore"/>
+          </hr:UIButton>
+          <hr:UIButton name="_submitButton" class="standard-button horizontal-layout backgroundcolor-dressup-positive">
+            <Label text="Submit" class="font18 color-white" picking-mode="Ignore"/>
+            <Image class="ticketButtonIcon" picking-mode="Ignore"/>
+            <Label text="77" name="_submitCurrencyName" class="font18 color-white" picking-mode="Ignore"/>
+          </hr:UIButton>
+        </VisualElement>
+      </VisualElement>
+    </VisualElement>
+  </hr:UILuaView>
+
+</UXML>

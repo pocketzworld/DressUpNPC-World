@@ -1,0 +1,238 @@
+:root {
+    --text-shadow: 1px 1px 1px black;
+    --text-shadow-none: 0 0 0 transparent;
+}
+
+.welcome-popup {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    -unity-font-definition: url("project://database/Assets/Fonts/Montserrat-Regular SDF.asset");
+    text-shadow: var(--text-shadow);
+    white-space: normal;
+    position: absolute;
+}
+
+.welcome-popup #_content{
+    height: 500px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: white;
+    background-image: url("project://database/Assets/Art/purplegradient.png");
+}
+
+.welcome-popup #_closeOverlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.welcome-popup #_okButton{
+    width: 200px;
+}
+
+.welcome-popup #_desc{
+    font-size: 17px;
+    text-shadow: var(--text-shadow-none);
+}
+
+.welcome-popup #_point1, #_point2, #_point3{
+    font-size: 15px;
+    text-shadow: var(--text-shadow-none);
+}
+
+/****** Fonts ********/
+
+.font14 {
+    font-size: 14px;
+}
+
+.font16 {
+    font-size: 16px;
+}
+
+.font18 {
+    font-size: 18px;
+}
+
+.font22 {
+    font-size: 22px;
+}
+
+.font26 {
+    font-size: 26px;
+}
+
+.font36 {
+    font-size: 36px;
+}
+
+/****** End Fonts ****/
+
+/****** Colors ********/
+
+.color-white {
+    color: white;
+}
+
+.color-black {
+    color: black
+}
+
+.color-whitegray {
+    color: #9c9c9c;
+}
+
+.color-style {
+    color: #eac315
+}
+
+.purple {
+    background-color: #9035bb;
+}
+
+.lightpurple {
+    background-color: #9035bb;
+}
+
+.green {
+    background-color: green;
+}
+
+.backgroundcolor-dressup-positive {
+    background-color: #9035bb;
+}
+
+.backgroundcolor-dressup-green {
+    background-color: green;
+}
+
+.backgroundcolor-edit {
+    background-color: #fec76f;
+}
+
+/****** End Colors ****/
+
+/****** Anchors ********/
+
+.fill-parent {
+    width: 100%;
+    height: 100%;
+}
+
+.textcenter {
+    -unity-text-align: middle-center;
+}
+
+.justifystart {
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.centered {
+    align-items: center;
+    justify-content: center;
+}
+
+.horizontal-layout {
+    flex-direction: row;
+}
+
+.vertical-layout{
+    flex-direction: column;
+}
+
+.bottom{
+    position: absolute;
+    bottom: 16px;
+}
+
+.top{
+    position: absolute;
+    top: 16px;
+}
+
+.right{
+    position: absolute;
+    right: 16px;
+}
+
+.left{
+    position: absolute;
+    left: 16px;
+}
+
+.top-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 16px;
+}
+
+.bottomcenter-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 16px;
+}
+
+.bottomright-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+}
+
+.bottomleft-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 16px;
+    bottom: 16px;
+}
+
+.left-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0px;
+}
+
+.right-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+}
+
+.topright-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+/****** End Anchors ****/
+
+.loading-spinner {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    width: 64px;
+    height: 64px;
+    background-image: url("project://database/Assets/Art/spinner.png")
+}
+
+.wrap {
+    white-space: normal;
+}
+
+.space16{
+    height:16px;
+    width:16px;
+}

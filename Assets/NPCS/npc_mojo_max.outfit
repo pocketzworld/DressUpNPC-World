@@ -1,0 +1,58 @@
+{
+  "IncludeFallbacks": true,
+  "Skeleton": "",
+  "Clothing": [
+    {
+      "Id": "body-flesh",
+      "Color": 0
+    },
+    {
+      "Id": "eye-n_basic2018malesquaresleepy",
+      "Color": 0
+    },
+    {
+      "Id": "freckle-n_basic2018freckle04",
+      "Color": 0
+    },
+    {
+      "Id": "hair_front-n_cheriemaxluckyspin2021mojohair",
+      "Color": 5
+    },
+    {
+      "Id": "hair_back-n_cheriemaxluckyspin2021mojohair",
+      "Color": 5
+    },
+    {
+      "Id": "glasses-n_npc2019mojoglasses",
+      "Color": -1
+    },
+    {
+      "Id": "eyebrow-n_muthurcosmetics2024threadedbrows",
+      "Color": 0
+    },
+    {
+      "Id": "mouth-n_hrcc2021mouth015",
+      "Color": 0
+    },
+    {
+      "Id": "nose-n_tunaxgrab2022straightnose",
+      "Color": 0
+    },
+    {
+      "Id": "pants-n_room12019formalslacksblack",
+      "Color": 0
+    },
+    {
+      "Id": "shirt-n_janskypassCozy2022cozylayershirt",
+      "Color": 0
+    },
+    {
+      "Id": "shoes-n_shoeboxudc2024vampsityplatformswhiteglitter",
+      "Color": 0
+    },
+    {
+      "Id": "freckle-n_vanityrewards2020sculptedjawline",
+      "Color": 0
+    }
+  ]
+}

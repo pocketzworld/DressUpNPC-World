@@ -1,0 +1,54 @@
+{
+  "IncludeFallbacks": true,
+  "Skeleton": "",
+  "Clothing": [
+    {
+      "Id": "body-flesh",
+      "Color": 1
+    },
+    {
+      "Id": "nose-n_03_b",
+      "Color": 0
+    },
+    {
+      "Id": "mouth-n_07",
+      "Color": 0
+    },
+    {
+      "Id": "eye-n_cozyfallrewardsgzbchielpandessal2021deeplookingeyes",
+      "Color": 0
+    },
+    {
+      "Id": "bag-n_ghosthunterrewards2021flannelwrap",
+      "Color": -1
+    },
+    {
+      "Id": "shirt-n_codymeiPunkContestgrab2021tanktop",
+      "Color": 0
+    },
+    {
+      "Id": "tattoo-n_buddypositivity2022maletopmuscle",
+      "Color": -1
+    },
+    {
+      "Id": "pants-novemberdailies2021blackbaggyjeans",
+      "Color": 0
+    },
+    {
+      "Id": "shoes-n_conversion2024basicshoes",
+      "Color": 0
+    },
+    {
+      "Id": "hair_front-n_malenew04",
+      "Color": 4
+    },
+    {
+      "Id": "hair_back-n_malenew04",
+      "Color": 4
+    },
+    {
+      "Id": "eyebrow-n_atheleisuregothgrab2020piercedbrows",
+      "Color": 81
+    }
+  ]
+}

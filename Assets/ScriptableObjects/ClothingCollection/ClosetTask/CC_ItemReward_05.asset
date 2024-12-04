@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_ItemReward_05
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: dress-n_bond2017camilledress
+    _paletteId: -1
+  - _descriptorId: dress-n_popmusicrewards2018demeghancatdress
+    _paletteId: -1
+  - _descriptorId: dress-n_resortrewards2018bohodress
+    _paletteId: -1
+  - _descriptorId: dress-n_redcarpetrewards2019scarjodress
+    _paletteId: -1
+  - _descriptorId: dress-n_peachrewards2019slipdress
+    _paletteId: -1
+  - _descriptorId: dress-n_succulentgrab2020succulentdress
+    _paletteId: -1
+  - _descriptorId: dress-n_purpleprincessgrab2020flowingpurpledress
+    _paletteId: -1
+  - _descriptorId: dress-n_goldilocksgrab2021vintagemini
+    _paletteId: -1
+  - _descriptorId: dress-n_2021counterculturerewards2punklolitadress
+    _paletteId: -1
+  - _descriptorId: dress-n_elixirrewards2022whitedress
+    _paletteId: -1
+  - _descriptorId: dress-n_winterfloraldonatecrewrewards2023flowerdress
+    _paletteId: -1
+  - _descriptorId: dress-n_redgreengrab2022redgown
+    _paletteId: -1
+  - _descriptorId: dress-n_poisonpranktoxicmeltgrab2023oilspilldress
+    _paletteId: -1
+  - _descriptorId: dress-n_starstruckudcgrab022023hollyshiningdress
+    _paletteId: -1
+  - _descriptorId: dress-n_hrbirthdaybashrewardsone2023arcanevapehappybirthdaysleepdress
+    _paletteId: -1
+  - _descriptorId: dress-n_hrccnewyears2023dressafterpartyblack
+    _paletteId: -1
+  - _descriptorId: shirt-n_romantifyudc2024shaane228reddress
+    _paletteId: -1
+  - _descriptorId: dress-n_prideriseuserrewards2024lesbiandress
+    _paletteId: -1
+  - _descriptorId: dress-n_muthursocialcampaign2024_whitesilver
+    _paletteId: -1
+  - _descriptorId: dress-n_getthelooksale2024_blacktastedress
+    _paletteId: -1
+  - _descriptorId: dress-n_hcchellhoundchaseitems2024hallcyondress
+    _paletteId: -1
+  - _descriptorId: dress-n_materialmaniauserrew2024cyberknightsilkydress
+    _paletteId: -1
+  - _descriptorId: dress-n_monochromevaultgrab2024pt3silversilkdress
+    _paletteId: -1
+  - _descriptorId: fullsuit-n_prideriseudcgrab012023quiraqgloveisloveoverall
+    _paletteId: -1
+  - _descriptorId: dress-n_winterfloralstundragrab2022dressfluff
+    _paletteId: -1
+  - _descriptorId: dress-n_ramadanitems2022silkabaya
+    _paletteId: -1
+  - _descriptorId: dress-f_redesignudcrewards2022velvetgown
+    _paletteId: -1
+  - _descriptorId: dress-n_musicfestivalfashion2019shinningdress
+    _paletteId: -1
+  - _descriptorId: dress-n_impressionismgrab2020waterlilydress
+    _paletteId: -1
+  - _descriptorId: dress-n_weddinggrab2019princessweddingdress
+    _paletteId: -1
+  - _descriptorId: dress-n_britishmusicians2017winehousedress
+    _paletteId: -1
+  - _descriptorId: dress-n_ramadancollection2018striprobe
+    _paletteId: -1
+  - _descriptorId: dress-n_prehistoricrewards2018tigerdress
+    _paletteId: -1

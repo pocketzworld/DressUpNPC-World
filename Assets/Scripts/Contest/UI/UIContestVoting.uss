@@ -1,0 +1,235 @@
+:root {
+    --text-shadow: 1px 1px 1px black;
+    --text-shadow-none: 0 0 0 transparent;
+}
+
+.contest-voting {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    -unity-font-definition: url("project://database/Assets/Fonts/Montserrat-Regular SDF.asset");
+    text-shadow: var(--text-shadow);
+}
+
+.contest-voting #_leftPanel {
+}
+
+.contest-voting #_rightPanel {
+}
+
+.contest-voting #_loadSpinnerParent{
+    position: absolute;
+    left: 45%;
+    top: 45%;
+}
+
+.contest-voting #_leftStarContainer, #_rightStarContainer {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    top: 200px;
+}
+
+.contest-voting #_leftStarContainer{
+    right: 10px;
+}
+
+.contest-voting #_rightStarContainer{
+    left: 10px;
+}
+
+.contest-voting #_bottomPanel{
+    width:100%;
+    max-width: 500px;
+    height: 80px;
+    align-items: center;
+    background-color: #ffffff;
+    justify-content: center;
+}
+
+.contest-voting #_backButton{
+    left: 20px;
+    height: 30px;
+    color: black;
+    background-color: white;
+    font-size: 18px;
+    border-radius: 6px;
+}
+
+.contest-voting #_ticketRewardDisplay {
+    left: 30px;
+    bottom: 60px;
+}
+
+.choicepanel {
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.star-masked {
+    height: 100%;
+    overflow: hidden;
+}
+
+.star {
+    height: 28px;
+    width: 28px;
+    background-image: url("project://database/Assets/Art/star_unfilled.png");
+}
+
+.star-overlay{
+    height: 29px;
+    width: 29px;
+    --unity-image-tint-color: #f7df08;
+}
+
+.ticketIcon {
+    height: 19px;
+    width: 28px;
+    background-image: url("project://database/Assets/Art/ticketIcon.png");
+}
+
+
+/****** Fonts ********/
+
+.font14 {
+    font-size: 14px;
+}
+
+.font16 {
+    font-size: 16px;
+}
+
+.font18 {
+    font-size: 18px;
+}
+
+.font22 {
+    font-size: 22px;
+}
+
+.font26 {
+    font-size: 26px;
+}
+
+/****** End Fonts ****/
+
+/****** Colors ********/
+
+.color-white {
+    color: white;
+}
+
+.color-black {
+    color: black
+}
+
+.color-whitegray {
+    color: #9c9c9c;
+}
+
+.color-style {
+    color: #eac315
+}
+
+
+.backgroundcolor-dressup-positive {
+    background-color: #9035bb;
+}
+
+.backgroundcolor-dressup-green {
+    background-color: green;
+}
+
+.backgroundcolor-edit {
+    background-color: #fec76f;
+}
+
+/****** End Colors ****/
+
+/****** Anchors ********/
+
+.fill-parent {
+    width: 100%;
+    height: 100%;
+}
+
+.centered {
+    align-items: center;
+    justify-content: center;
+}
+
+.horizontal-layout {
+    flex-direction: row;
+}
+
+.vertical-layout{
+    flex-direction: column;
+}
+
+.bottomcenter-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 16px;
+}
+
+.bottomright-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+}
+
+.bottomleft-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 16px;
+    bottom: 16px;
+}
+
+.left-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0px;
+}
+
+.right-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+}
+
+.topright-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+/****** End Anchors ****/
+
+.loading-spinner {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    width: 64px;
+    height: 64px;
+    background-image: url("project://database/Assets/Art/spinner.png")
+}
+
+.wrap {
+    white-space: normal;
+}
+
+.absolute {
+    position: absolute;
+}

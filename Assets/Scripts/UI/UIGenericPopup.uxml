@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="UnityEngine.UIElements"
+    xmlns:hr="Highrise.UI"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd"
+>
+
+  <hr:UILuaView class="generic-popup">
+    <VisualElement name="_closeOverlay" class="fill-parent absolute modal"/>
+    <VisualElement name="_content" class="vertical-layout">
+      <Label name="_message" class="font18 color-black wrap" picking-mode="Ignore"/>
+      <VisualElement name="_buttonDisplay" class="horizontal-layout">
+        <hr:UIButton name="_okButton" class="standard-button backgroundcolor-green">
+          <Label name="_okButtonText" text="Ok" class="font18 color-white" picking-mode="Ignore"/>
+        </hr:UIButton>
+        <hr:UIButton name="_cancelButton" class="standard-button backgroundcolor-red">
+          <Label text="Cancel" class="font18 color-white" picking-mode="Ignore"/>
+        </hr:UIButton>
+      </VisualElement>
+    </VisualElement>
+  </hr:UILuaView>
+
+</UXML>

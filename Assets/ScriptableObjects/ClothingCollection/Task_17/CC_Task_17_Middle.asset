@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_Task_17_Middle
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: shirt-n_Decades70sRewards2021blackjumpsuittop
+    _paletteId: -1
+  - _descriptorId: shirt-n_muthurfuthuritduo2023pinkmesh
+    _paletteId: -1
+  - _descriptorId: shirt-n_countryrewards2021cowboyshirt
+    _paletteId: -1
+
+  - _descriptorId: shirt-m_polo_babyblue
+    _paletteId: -1
+  - _descriptorId: shirt-n_countryfair2017cowboyshirt
+    _paletteId: -1
+  - _descriptorId: shirt-n_2016fallblacklayeredbomber
+    _paletteId: -1

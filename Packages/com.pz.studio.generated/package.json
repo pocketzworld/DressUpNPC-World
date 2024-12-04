@@ -1,0 +1,17 @@
+{
+    "name": "com.pz.studio.generated",
+    "version": "1.0.0",
+    "displayName": "Highrise Studio Generated",
+    "description": "Automatically generated package that contains assets that were created by the Highrise Studio package.",
+    "unity": "2022.3",
+    "unityRelease": "16f1",
+    "dependencies": {
+    },
+    "keywords": [
+    ],
+    "author": {
+        "name": "Pocket Worlds",
+        "email": "support@pocketworlds.com",
+        "url": "https://pocketworlds.com"
+    }
+}

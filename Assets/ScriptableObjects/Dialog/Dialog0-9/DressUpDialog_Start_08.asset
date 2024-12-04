@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1be4dc1c48e117b1b198166489adc7d5, type: 3}
+  m_Name: DressUpDialog_Start_08
+  m_EditorClassIdentifier: 
+  _script: {fileID: -974389366465450183, guid: a13bdcc9f23e17640b4716b13372c700, type: 3}
+  _networkId: 2131941351
+  _properties: []
+  _dialogStrings:
+  - "There\u2019s this charity gala tonight, and I need something show-stopping"
+  - Let's find something glamorous and chic
+  - "It\u2019s all about making an impression while supporting a great cause, you
+    know?"
+  - "Of course! Let\u2019s find an outfit that\u2019s both classy and eye-catching
+    for the event"
+  _emotes:
+  - 
+  - 
+  - emote-pose1
+  - 
+  _playerSpeakingList: 00010001
+  _speechAudio: {fileID: 11400000, guid: 1e46d134bdd441041bb122c441cc4e1f, type: 2}
+  _displayData: {fileID: 11400000, guid: 0c66de5044f8be444aa4967a8f3a0525, type: 2}
+  references:
+    version: 2
+    RefIds: []

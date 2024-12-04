@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbf42ebc13c9e6f142f3c48daa0fb518, type: 3}
+  m_Name: StoreItem_00
+  m_EditorClassIdentifier: 
+  _script: {fileID: -974389366465450183, guid: 012b2e69a916e624f82cc45810d0b5cd, type: 3}
+  _networkId: 2494900969
+  _properties: []
+  _id: item_00
+  _clothingCollectionRewardTemplate: {fileID: 11400000, guid: f2993350a334bf44db6ab680ae352869,
+    type: 2}
+  _displayData: {fileID: 11400000, guid: a46ac2d4d096f8043ade39e7c88c8fde, type: 2}
+  _cost: 300
+  _currencyCostTemplate: {fileID: 11400000, guid: c8adf697322479643b80903e6212ef47,
+    type: 2}
+  references:
+    version: 2
+    RefIds: []

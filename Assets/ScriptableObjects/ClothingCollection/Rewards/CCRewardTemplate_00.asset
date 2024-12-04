@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d70984d6a1028c120925e3cdc2d06a7, type: 3}
+  m_Name: CCRewardTemplate_00
+  m_EditorClassIdentifier: 
+  _script: {fileID: -974389366465450183, guid: d7af9898d0cf28149a4d5ee966f20672, type: 3}
+  _networkId: 3803669161
+  _properties: []
+  _id: ccreward00
+  _collection: {fileID: 11400000, guid: 54a4db47aec1b234e80c5cd75f5b9094, type: 2}
+  _displayData: {fileID: 11400000, guid: fff78201b3a921b46aabca628fa04327, type: 2}
+  references:
+    version: 2
+    RefIds: []

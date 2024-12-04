@@ -1,0 +1,269 @@
+:root {
+    --text-shadow: 1px 1px 1px #9d9d9d;
+    --text-shadow-none: 0 0 0 transparent;
+}
+
+.outfit-choice-popup {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center; /* Center children vertically */
+    justify-content: center; /* Center children horizontally */
+    position: absolute;
+    -unity-font-definition: url("project://database/Assets/Fonts/Montserrat-Regular SDF.asset");
+    text-shadow: var(--text-shadow);
+}
+
+.outfit-choice-popup #_contentContainer {
+    width: 320px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 0px;
+}
+
+.landscape .outfit-choice-popup  #_contentContainer {
+    height: 140px;
+    width: 260px;
+}
+
+.outfit-choice-popup #_goalContainer {
+    width: 80%;
+    max-width: 400px;
+    height: 40px;
+    background-color: #9035bb;
+    border-radius: 15px;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: center;
+    -unity-text-align: middle-center;
+}
+
+.landscape .outfit-choice-popup #_goalContainer {
+    height: 30px;
+}
+
+.outfit-choice-popup #_goalText {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.outfit-choice-popup #_baseContainer {
+    width: 100%;
+    height: 120px;
+    background-color: #212121;
+    border-radius: 15px;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.outfit-choice-popup #_entryParent {
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-container {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.landscape .image-container {
+    width: 80px;
+    height: 80px;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+    background-color: clear;
+    border-radius: 10px;
+}
+
+.frame {
+    width: 90px;  /* Adjust the frame size */
+    height: 90px;
+    background-color: #ffffff; /* Default border */
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;  /* Add padding to create space between the image and the frame */
+}
+
+.landscape .frame {
+    width: 72px;
+    height: 72px;
+}
+
+.selected {
+    width: 20px;
+    height: 20px;
+    bottom:0;
+    right: 0;
+    position:absolute;
+    background-image: url("../../Art/Checkmark@2x.png")
+}
+
+.standard-button {
+    border-radius: 10px;
+    color: white;
+    width: 200px;
+    height: 40px;
+    background-color: #9035bb
+}
+
+
+/****** Fonts ********/
+
+.font14 {
+    font-size: 14px;
+}
+
+.font16 {
+    font-size: 16px;
+}
+
+.font18 {
+    font-size: 18px;
+}
+
+.font22 {
+    font-size: 22px;
+}
+
+.font26 {
+    font-size: 26px;
+}
+
+/****** End Fonts ****/
+
+/****** Colors ********/
+
+.color-white {
+    color: white;
+}
+
+.color-black {
+    color: black
+}
+
+.color-whitegray {
+    color: #9c9c9c;
+}
+
+.color-style {
+    color: #eac315
+}
+
+
+.backgroundcolor-dressup-positive {
+    background-color: #9035bb;
+}
+
+.backgroundcolor-dressup-green {
+    background-color: green;
+}
+
+.backgroundcolor-edit {
+    background-color: #fec76f;
+}
+
+/****** End Colors ****/
+
+/****** Anchors ********/
+
+.fill-parent {
+    width: 100%;
+    height: 100%;
+}
+
+.centered {
+    align-items: center;
+    justify-content: center;
+}
+
+.horizontal-layout {
+    flex-direction: row;
+}
+
+.vertical-layout{
+    flex-direction: column;
+}
+
+.bottomcenter-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 16px;
+}
+
+.bottomright-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+}
+
+.bottomleft-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 16px;
+    bottom: 16px;
+}
+
+.left-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0px;
+}
+
+.right-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+}
+
+.topright-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+.topcenter-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+}
+
+/****** End Anchors ****/
+
+.loading-spinner {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    width: 64px;
+    height: 64px;
+    background-image: url("project://database/Assets/Art/spinner.png")
+}
+
+.wrap {
+    white-space: normal;
+}
+
+.absolute {
+    position: absolute;
+}

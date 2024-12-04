@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_Closet_09
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: shirt-n_cozyautumneventitems2021luckyspintop
+    _paletteId: -1
+  - _descriptorId: shirt-n_animecollection2018sweateruniform
+    _paletteId: -1
+  - _descriptorId: shirt-n_capsulewardrobe2024distressedcropiristella
+    _paletteId: -1
+  - _descriptorId: shirt-n_capsulewardrobe2024basicshirtiristellablack
+    _paletteId: -1
+  - _descriptorId: shirt-n_animecollection2018sweateruniform
+    _paletteId: -1
+  - _descriptorId: shirt-n_2016schoolblazerwithbow
+    _paletteId: -1
+  - _descriptorId: shirt-n_schoolcasual2017boyfriendjacket
+    _paletteId: -1
+  - _descriptorId: shirt-n_schoolreporterblazer
+    _paletteId: -1
+  - _descriptorId: shirt-n_pjpartyudcgrab12024yuppinabothapandashirt
+    _paletteId: -1
+  - _descriptorId: shirt-n_12daysofgiftrise2023n0face_pjtop
+    _paletteId: -1
+  - _descriptorId: shirt-n_pjpartyudcgrab022024yanayaskavelvetrobe
+    _paletteId: -1
+  - _descriptorId: shirt-n_summerpj2017bluepj
+    _paletteId: -1
+  - _descriptorId: shirt-n_summerpj2017lacepj2
+    _paletteId: -1
+  - _descriptorId: shirt-n_summerpj2017stripepj
+    _paletteId: -1
+  - _descriptorId: shirt-n_candycoreudcrewards022024nikanamarshmellowshirt
+    _paletteId: -1
+  - _descriptorId: shirt-n_npcglowupeventrewards022024ipixprettygalskintightdress
+    _paletteId: -1
+  - _descriptorId: pants-n_cozyautumneventitems2021luckyspinbottoms
+    _paletteId: -1
+  - _descriptorId: pants-n_janskypassCozy2022greycozysweats
+    _paletteId: -1
+  - _descriptorId: pants-n_sexypjs2020silkpants
+    _paletteId: -1
+  - _descriptorId: pants-n_pjpartyudcevepartrewar2024plaidpants
+    _paletteId: -1
+  - _descriptorId: pants-n_pjpartyudcgrab12024ecobeautyplushpants
+    _paletteId: -1
+  - _descriptorId: pants-n_capsulewardrobe2024theceliabluedenim
+    _paletteId: -1
+  - _descriptorId: pants-n_pjpartyudcgrab022024felinesleepwearshorts
+    _paletteId: -1
+  - _descriptorId: pants-n_12daysofgiftrise2023n0face_pjbottom
+    _paletteId: -1
+  - _descriptorId: pants-n_butterflycaterpillarparticipationrewards2022butterflyjeans
+    _paletteId: -1
+  - _descriptorId: pants-n_paintitblackdonatecolorgrab2022rainbowheartjeans
+    _paletteId: -1
+  - _descriptorId: pants-n_elixirwintercollection2022purplebellbottoms
+    _paletteId: -1
+  - _descriptorId: pants-novemberdailies2021purplebaggyjeans
+    _paletteId: -1
+  - _descriptorId: shoes-n_winterdigs2018cozyboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_snowflakerewards2018slippers
+    _paletteId: -1
+  - _descriptorId: sock-n_pjparty2024fluffysocks
+    _paletteId: -1
+  - _descriptorId: shoes-n_sexypjs2019slippers
+    _paletteId: -1
+  - _descriptorId: shoes-n_pjpartyudcgrabtwo2023kiyokikiquietnightsandals
+    _paletteId: -1
+  - _descriptorId: shoes-n_pjindirewards2019oversizeplushsliper
+    _paletteId: -1
+  - _descriptorId: shoes-n_pjpartyrecolor2024oversizeplushsliper
+    _paletteId: -1
+  - _descriptorId: shoes-n_capsulewardrobe2024tteabaggfuzzyslipperspink
+    _paletteId: -1
+  - _descriptorId: sock-n_pjpartyrecolor2024fluffysocks
+    _paletteId: -1
+  - _descriptorId: shoes-n_winxudcgrabone2024sunnywluheels
+    _paletteId: -1
+  - _descriptorId: shoes-n_gettoworkudctheme1rewards2022achluophobiasneaker
+    _paletteId: -1
+  - _descriptorId: shoes-n_poppianaspringcollectionudc2024smallshoespurple
+    _paletteId: -1
+  - _descriptorId: shoes-n_riseapaloozagudcdonategrab2altics2023cowgirlbasics
+    _paletteId: -1
+  - _descriptorId: shoes-n_gardensnailrewards2021greenplatformpumps
+    _paletteId: -1
+  - _descriptorId: shoes-n_npcglowupeventrewards022024ipixprettygaltallheels
+    _paletteId: -1
+  - _descriptorId: glasses-n_pjrewards2017cucumbereyemask
+    _paletteId: -1
+  - _descriptorId: hat-n_pjpartyudcgrab022024morhgallcleanandreadyheadband
+    _paletteId: -1
+  - _descriptorId: hat-n_summerpj2017pandacover
+    _paletteId: -1
+  - _descriptorId: hat-n_pjrewards2019wrappedtowel_1
+    _paletteId: -1
+  - _descriptorId: handbag-n_pjindirewards2019boule
+    _paletteId: -1
+  - _descriptorId: hat-n_summerpj2017stareyecover
+    _paletteId: -1
+  - _descriptorId: bag-n_springpetrares2024cozycropsweater
+    _paletteId: -1
+  - _descriptorId: bag-n_hottaketwoudcgrab012024tinybodbigheartcozycardigan
+    _paletteId: -1
+  - _descriptorId: shirt-n_pjpartyudcgrab022024felinesleepwearrobe
+    _paletteId: -1
+  - _descriptorId: handbag-n_npcglowupeventrewards022024ipixprettygalnails
+    _paletteId: -1
+  - _descriptorId: bag-n_npcglowupeventrewards022024ipixprettygalpuffysleeves
+    _paletteId: -1
+  - _descriptorId: necklace-n_npcglowupeventrewards022024ipixprettygalnecklace
+    _paletteId: -1
+  - _descriptorId: hair_front-n_pjpartyudcgrab022024morhgallcleanandreadyhair
+    _paletteId: -1
+  - _descriptorId: hair_front-n_pjpartyudcgrabtwo2023spookyimptunaxslumberpartyhaireyemask
+    _paletteId: -1
+  - _descriptorId: hair_front-n_pjrewards2019hairrollers
+    _paletteId: -1
+  - _descriptorId: hair_front-n_starryPJgrab2020messypigtails
+    _paletteId: -1
+  - _descriptorId: hair_front-n_stafftakeoveretcgrab2021scrunchiebun
+    _paletteId: -1
+  - _descriptorId: hair_front-n_mockeristarterpackblack2024messyponytail
+    _paletteId: -1
+  - _descriptorId: hair_front-n_materialmaniapartrewardsudc2024cyberknightponytail
+    _paletteId: -1
+  - _descriptorId: hair_front-n_nothemerewardslexy2021hair
+    _paletteId: -1
+  - _descriptorId: hair_front-n_autumnacademiajudgerwrds2024himboirushedbun
+    _paletteId: -1
+  - _descriptorId: hair_front-n_promperfectudcgrabone2024cyberknightluxesideshave
+    _paletteId: -1
+  - _descriptorId: fullsuit-n_monochromevaultgrab2024ohaibambibaddiesuitwhite
+    _paletteId: -1
+  - _descriptorId: fullsuit-n_baddieeraudceventusertewards2024stephanieskyblackoutbaddiesuit
+    _paletteId: -1

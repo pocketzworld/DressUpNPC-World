@@ -1,0 +1,195 @@
+:root {
+    --text-shadow: 1px 1px 1px black;
+    --text-shadow-none: 0 0 0 transparent;
+}
+
+.generic-popup {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    -unity-font-definition: url("project://database/Assets/Fonts/Montserrat-Regular SDF.asset");
+    text-shadow: var(--text-shadow);
+    position: absolute;
+}
+
+.generic-popup #_content {
+    width: 80%;
+    max-width: 450px;
+    height: 150px;
+    border-radius: 10px;
+    border-color: #000000;
+    background-color: #ffffff;
+    justify-content: center;
+    align-items: center;
+    -unity-text-align: middle-center;
+}
+
+.generic-popup #_message{
+    margin-right: 16px;
+    margin-left: 16px;
+}
+
+.generic-popup #_okButton{
+    width: 100px;
+    margin-top: 40px;
+    background-color: green;
+}
+
+.generic-popup #_cancelButton{
+    margin-left: 20px;
+    width: 100px;
+    margin-top: 40px;
+    background-color: red;
+}
+
+/****** Fonts ********/
+
+.font14 {
+    font-size: 14px;
+}
+
+.font16 {
+    font-size: 16px;
+}
+
+.font18 {
+    font-size: 18px;
+}
+
+.font26 {
+    font-size: 26px;
+}
+
+/****** End Fonts ****/
+
+/****** Colors ********/
+
+.color-white {
+    color: white;
+}
+
+.color-black {
+    color: black
+}
+
+.color-whitegray {
+    color: #9c9c9c;
+}
+
+.color-style {
+    color: #eac315
+}
+
+
+.backgroundcolor-dressup-positive {
+    background-color: #9035bb;
+}
+
+.backgroundcolor-dressup-green {
+    background-color: green;
+}
+
+.backgroundcolor-edit {
+    background-color: #fec76f;
+}
+
+/****** End Colors ****/
+
+/****** Anchors ********/
+
+.fill-parent {
+    width: 100%;
+    height: 100%;
+}
+
+.centered {
+    align-items: center;
+    justify-content: center;
+}
+
+.horizontal-layout {
+    flex-direction: row;
+}
+
+.vertical-layout{
+    flex-direction: column;
+}
+
+.bottomcenter-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 16px;
+}
+
+.topcenter-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 16px;
+}
+
+.bottomright-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+}
+
+.bottomleft-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 16px;
+    bottom: 16px;
+}
+
+.left-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0px;
+}
+
+.right-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+}
+
+.topright-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+/****** End Anchors ****/
+
+.loading-spinner {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    width: 64px;
+    height: 64px;
+    background-image: url("project://database/Assets/Art/spinner.png")
+}
+
+.wrap {
+    white-space: normal;
+}
+
+.modal {
+    background-color: #000000;
+    opacity: 0.7;
+}
+
+.absolute {
+    position: absolute;
+}

@@ -1,0 +1,58 @@
+{
+  "IncludeFallbacks": true,
+  "Skeleton": "",
+  "Clothing": [
+    {
+      "Id": "body-flesh",
+      "Color": 71
+    },
+    {
+      "Id": "shoes-n_npcglowupeventrewards022024zimexplorerlewarmerboots",
+      "Color": 0
+    },
+    {
+      "Id": "shirt-n_npcglowupeventrewards022024zimexplorerscoutshirt",
+      "Color": 0
+    },
+    {
+      "Id": "pants-n_npcglowupeventrewards022024zimexplorerbrownshorts",
+      "Color": 0
+    },
+    {
+      "Id": "hat-n_npcglowupeventrewards022024zimexplorerhat",
+      "Color": -1
+    },
+    {
+      "Id": "bag-n_npcglowupeventrewards022024zimexplorerbackpackback",
+      "Color": -1
+    },
+    {
+      "Id": "eyebrow-n_catvsdogleobubblegrab2022scarbrows",
+      "Color": 1
+    },
+    {
+      "Id": "eye-n_npcglowupeventrewards022024zimexplorerwinkeye",
+      "Color": 38
+    },
+    {
+      "Id": "freckle-n_stpattys2017sunkissedfreckles",
+      "Color": 0
+    },
+    {
+      "Id": "mouth-n_nocturnalcreaturesrewards2022catblep",
+      "Color": 27
+    },
+    {
+      "Id": "nose-n_atheleisuregothgrab2020bandagedpiercednose",
+      "Color": 0
+    },
+    {
+      "Id": "hair_front-bhm2024braidedstyle",
+      "Color": 1
+    },
+    {
+      "Id": "hair_back-bhm2024braidedstyle",
+      "Color": 1
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+:root {
+    --text-shadow: 1px 1px 1px black;
+    --text-shadow-none: 0 0 0 transparent;
+}
+
+.contest-results {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    -unity-font-definition: url("project://database/Assets/Fonts/Montserrat-Regular SDF.asset");
+    text-shadow: var(--text-shadow-none);
+}
+
+.close-overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.contest-results #_playerListContent{
+    height: 100%;
+    max-width: 300px;
+    width: 50%;
+    justify-content: flex-start;
+}
+
+.result-entry{
+    background-color: #333333;
+    margin-bottom: 10px;
+    height: 42px;
+    width: 100%;
+}
+
+.image-character{
+    height: 42px;
+}
+
+.selected {
+    background-color: purple;
+}
+
+.horizontal-layout {
+    flex-direction: row;
+}
+
+.vertical-layout{
+    flex-direction: column;
+}
+
+.small-label {
+    font-size: 14px;
+    margin: 1px;
+    padding: 1px;
+    white-space: normal;
+}
+
+.rank-label {
+    font-size: 14px;
+    margin: 1px;
+    padding: 1px;
+    white-space: normal;
+    color: white;
+    background-color: black;
+}
+
+.user-thumbnail {
+    width: 42px;
+    height: 42px;
+    background-color: #ffffff;
+}
+
+.star-masked {
+    height: 100%;
+    overflow: hidden;
+}
+
+.star {
+    height: 12px;
+    width: 12px;
+    background-image: url("project://database/Assets/Art/star_unfilled.png");
+}
+
+.star-overlay{
+    height: 13px;
+    width: 13px;
+    --unity-image-tint-color: #f7df08;
+}
+
+/****** Fonts ********/
+
+.font14 {
+    font-size: 14px;
+}
+
+.font16 {
+    font-size: 16px;
+}
+
+.font18 {
+    font-size: 18px;
+}
+
+.font26 {
+    font-size: 26px;
+}
+
+/****** End Fonts ****/
+
+/****** Colors ********/
+
+.color-white {
+    color: white;
+}
+
+.yellowbg {
+    background-color: yellow;
+}
+
+.darkgraybg {
+    background-color: #333333;
+}
+
+.color-black {
+    color: black
+}
+
+.color-whitegray {
+    color: #9c9c9c;
+}
+
+.backgroundcolor-dressup-positive {
+    background-color: #9035bb;
+}
+
+.backgroundcolor-dressup-green {
+    background-color: green;
+}
+
+.backgroundcolor-edit {
+    background-color: #fec76f;
+}
+
+/****** End Colors ****/
+
+/****** Anchors ********/
+
+.fill-parent {
+    width: 100%;
+    height: 100%;
+}
+
+.centered {
+    align-items: center;
+    justify-content: center;
+}
+
+.horizontal-layout {
+    flex-direction: row;
+}
+
+.vertical-layout{
+    flex-direction: column;
+}
+
+.bottomcenter-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 16px;
+}
+
+.bottomright-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+}
+
+.bottomleft-anchor {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 16px;
+    bottom: 16px;
+}
+
+.left-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0px;
+}
+
+.right-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+}
+
+.topright-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+.topleft-anchor{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+/****** End Anchors ****/
+
+.loading-spinner {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    width: 64px;
+    height: 64px;
+    background-image: url("project://database/Assets/Art/spinner.png")
+}
+
+.wrap {
+    white-space: normal;
+}

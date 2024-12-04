@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb1b9f5e43f226d1733cfac9a8ed0ac9, type: 3}
+  m_Name: NoCutsceneCameraSettings
+  m_EditorClassIdentifier: 
+  _script: {fileID: -974389366465450183, guid: 51c49f8bf92d2604c9e3fa1c12320a1c, type: 3}
+  _networkId: 185432181
+  _properties: []
+  _pitch: 28
+  _zoom: 20
+  _duration: 1
+  _targetOffset: {x: 0, y: 0, z: 0}
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,54 @@
+{
+    "IncludeFallbacks": true,
+    "Skeleton": "",
+    "Clothing": [
+        {
+            "Id": "body-flesh",
+            "Color": 25
+        },
+        {
+            "Id": "mouth-n_onceuponatimegrab2023royalsmirk",
+            "Color": 8
+        },
+        {
+            "Id": "nose-n_03_b",
+            "Color": 0
+        },
+        {
+            "Id": "eyebrow-n_21",
+            "Color": 4
+        },
+        {
+            "Id": "aura-n_npcglowupudcgrabone2024devilcraftcasino",
+            "Color": 0
+        },
+        {
+            "Id": "bag-n_npcglowupudcgrabone2024devilcraftcapejacket",
+            "Color": 0
+        },
+        {
+            "Id": "eye-n_npcglowupudcgrabone2024devilcraftfemeyes",
+            "Color": 22
+        },
+        {
+            "Id": "hair_front-n_npcglowupudcgrabone2024devilcraftfemhair",
+            "Color": 23
+        },
+        {
+            "Id": "hat-n_npcglowupudcgrabone2024devilcraftdevilhalo",
+            "Color": 0
+        },
+        {
+            "Id": "shirt-n_npcglowupudcgrabone2024devilcrafttightdress",
+            "Color": 0
+        },
+        {
+            "Id": "shoes-n_npcglowupudcgrabone2024devilcraftboots",
+            "Color": 0
+        },
+        {
+            "Id": "hair_back-n_npcglowupudcgrabone2024devilcraftfemhair",
+            "Color": 23
+        }
+    ]
+}

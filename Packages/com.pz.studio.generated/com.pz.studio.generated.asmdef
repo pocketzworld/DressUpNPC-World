@@ -1,0 +1,21 @@
+{
+    "name": "com.pz.studio.generated",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4dbfe156d8f9dd9419a20de98aba1013",
+        "GUID:ca1cef7b4792ffd40907863073b0af73",
+        "GUID:4ba426bc0363ea44ca4ea707d2795767",
+        "GUID:5bc9d6bafe0a5e744867c697989b1edd",
+        "GUID:ce5b2fa05eb10724188dc63bce75fa53",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

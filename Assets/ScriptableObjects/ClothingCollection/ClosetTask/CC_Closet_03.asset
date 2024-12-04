@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_Closet_03
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: pants-n_hccbasics2023joggersbabyblue
+    _paletteId: -1
+  - _descriptorId: pants-n_pastelmallcollection2022bluethickflares
+    _paletteId: -1
+  - _descriptorId: pants-n_pajamagrab2019bluestarpjbottoms
+    _paletteId: -1
+  - _descriptorId: pants-n_cutevscreepygrab12024sainencutpants
+    _paletteId: -1
+  - _descriptorId: pants-n_julyskypass2022chaosleatherpants
+    _paletteId: -1
+  - _descriptorId: pants-christmasatthemallrisewintercollection2022flarepantsblack
+    _paletteId: -1
+  - _descriptorId: pants-n_romantifyudc2024kuwasicuteunderpantsblack
+    _paletteId: -1
+  - _descriptorId: skirt-n_brixsiwannaplaygrab2022blueskirt
+    _paletteId: -1
+  - _descriptorId: pants-n_takeyourpickgrab022024heymamashorts
+    _paletteId: -1
+  - _descriptorId: shirt-n_npcglowupudcgrabone2024devilcrafttightdress
+    _paletteId: -1
+  - _descriptorId: shirt-n_returnofcasino2019loveciarshirt
+    _paletteId: -1
+  - _descriptorId: dress-f_clairbabybump1
+    _paletteId: -1
+  - _descriptorId: shirt-n_returnofcasino2019clairdress
+    _paletteId: -1
+  - _descriptorId: dress-n_dieselassassingrab2024blacktranslucentdress
+    _paletteId: -1
+  - _descriptorId: shirt-christmasatthemallrisewintercollection2022littledressblue
+    _paletteId: -1
+  - _descriptorId: shirt-n_tidaltreasuresminievent2024femshirtblue
+    _paletteId: -1
+  - _descriptorId: shirt-n_decemberskygrab2023stripedsweaterlightblue
+    _paletteId: -1
+  - _descriptorId: shirt-n_artistloungexiiudcgrab2024ghoostmicrodress
+    _paletteId: -1
+  - _descriptorId: shirt-n_pleasecactussatinyrewards2021bluebellrufflecorset
+    _paletteId: -1
+  - _descriptorId: shirt-n_muthurdrenchedgrab2024_beltedcorset
+    _paletteId: -1
+  - _descriptorId: shirt-n_muthurdrenchedgrab2024_raincorset
+    _paletteId: -1
+  - _descriptorId: shirt-n_pjpartyudcgrab022024yanayaskavelvetrobe
+    _paletteId: -1
+  - _descriptorId: shirt-n_vintagevaultrecolors2024coffeedatesweaterblack
+    _paletteId: -1
+  - _descriptorId: fullsuit-n_baddieeraudceventusertewards2024stephanieskyblackoutbaddiesuit
+    _paletteId: -1
+  - _descriptorId: fullsuit-n_hcchellhoundchaseitems2024hardtimes
+    _paletteId: -1
+  - _descriptorId: dress-n_materialmaniauserrew2024cyberknightsilkydressblack
+    _paletteId: -1
+  - _descriptorId: dress-n_CelestialBlueFairyGrab2021StarGown
+    _paletteId: -1
+  - _descriptorId: dress-n_starstruckudcgrab022023hollyshiningdress
+    _paletteId: -1
+  - _descriptorId: mouth-n_onceuponatimegrab2023royalsmirk
+    _paletteId: -1
+  - _descriptorId: eye-n_npcglowupudcgrabone2024devilcraftfemeyes
+    _paletteId: -1
+  - _descriptorId: mouth-n_returnofcasino2019cardmouth
+    _paletteId: -1
+  - _descriptorId: eye-n_returnofcasino2019claireyes
+    _paletteId: -1
+  - _descriptorId: mouth-n_npcglowupeventrewards022024ipixprettygalmouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_spookifyone2024unlovablemouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_trickandtreatrecolors2024mouthpierced
+    _paletteId: -1
+  - _descriptorId: eye-n_spookifythreeudceveuserewar2024dionysuseaterglare
+    _paletteId: -1
+  - _descriptorId: eye-n_vintagevalutpinkset2023xversacexlasheyes01
+    _paletteId: -1
+  - _descriptorId: eye-n_demuresale2024greencutcrease
+    _paletteId: -1
+  - _descriptorId: eye-n_sleepingbeautyrewards2021eyes
+    _paletteId: -1
+  - _descriptorId: eye-n_dragonprankgrab2023redeyes
+    _paletteId: -1
+  - _descriptorId: hair_front-n_npcglowupudcgrabone2024devilcraftfemhair
+    _paletteId: -1
+  - _descriptorId: hair_front-n_returnofcasino2019clairhair
+    _paletteId: -1
+  - _descriptorId: hair_front-n_animecollection2018haruhihair
+    _paletteId: -1
+  - _descriptorId: handbag-n_npcglowupudcgrabone2024devilcraftposedgloves
+    _paletteId: -1
+  - _descriptorId: hat-n_npcglowupudcgrabone2024devilcraftdevilhalo
+    _paletteId: -1
+  - _descriptorId: bag-n_npcglowupudcgrabone2024devilcraftcapejacket
+    _paletteId: -1
+  - _descriptorId: handbag-n_clairdemonbaby
+    _paletteId: -1
+  - _descriptorId: hat-n_returnofcasino2019clairhat_1
+    _paletteId: -1
+  - _descriptorId: handbag-n_returnofcasino2019clairplush
+    _paletteId: -1
+  - _descriptorId: hat-n_demonacademiaskypass2022demonhorns
+    _paletteId: -1
+  - _descriptorId: hat-n_pjpartyudcgrab12024moomehdeadmask
+    _paletteId: -1
+  - _descriptorId: glasses-n_femmefatalesale2024_blacksunnies
+    _paletteId: -1
+  - _descriptorId: handbag-n_zombiehuntersrewards2018gasolinecan
+    _paletteId: -1
+  - _descriptorId: handbag-n_muthurcollecturdresses_signaturepurse
+    _paletteId: -1
+  - _descriptorId: handbag-n_promgrabdamnme2021purse
+    _paletteId: -1
+  - _descriptorId: handbag-n_onceuponatimedonategrabone2023magicmirror
+    _paletteId: -1
+  - _descriptorId: hat-n_fallenangelsiilkspnevs2024spinehalo
+    _paletteId: -1
+  - _descriptorId: shoes-n_npcglowupudcgrabone2024devilcraftboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_gothicprankgrabtwo2024valimonroeblackheels
+    _paletteId: -1
+  - _descriptorId: shoes-n_doodlekitchen2024idollzbootsblacksparkle
+    _paletteId: -1
+  - _descriptorId: shoes-n_hrcchrlivewitchdrop2024witchbootsilver
+    _paletteId: -1
+  - _descriptorId: shoes-n_battleroyaleudcgrab012024mockeriboots
+    _paletteId: -1
+  - _descriptorId: shoes-n_shoeboxcampaign2024wingedpumpsblack
+    _paletteId: -1
+  - _descriptorId: shoes-n_shoeboxcampaign2024kneehighopentoeblack
+    _paletteId: -1
+  - _descriptorId: shoes-n_shoeriseudcevereward2024kuwasisummerheels
+    _paletteId: -1
+  - _descriptorId: shoes-n_shoeriseudcevereward2024theceliasimplechunck
+    _paletteId: -1
+  - _descriptorId: shoes-n_shoeriseudcevereward2024tottycinderellaheels
+    _paletteId: -1
+  - _descriptorId: shoes-n_muthurkissmas2022blueheels
+    _paletteId: -1
+  - _descriptorId: shoes-n_muthurwinturwonderlandgrab2023blueboot
+    _paletteId: -1
+  - _descriptorId: shoes-n_promperfectrwrds12024alticsstarlightlacedheels
+    _paletteId: -1
+  - _descriptorId: shoes-n_poppiananootflixcollabgrab2023butterflyheels
+    _paletteId: -1
+  - _descriptorId: aura-n_npcglowupudcgrabone2024devilcraftcasino
+    _paletteId: -1
+  - _descriptorId: bag-n_returnofcasino2019diceaura
+    _paletteId: -1
+  - _descriptorId: aura-n_promperfectudcgrabone2024cyberknightspotlightofdyingroses
+    _paletteId: -1
+  - _descriptorId: aura-n_promperfectrwrds12024alticsstarfallfragments
+    _paletteId: -1
+  - _descriptorId: bag-n_newyearscontest2018sparkleaura
+    _paletteId: -1
+  - _descriptorId: bag-n_newyearscontest2018sparkleaura
+    _paletteId: -1
+  - _descriptorId: bag-n_sushihalloween2019spiderlegs
+    _paletteId: -1
+  - _descriptorId: bag-n_winterglitzXitsQueenJadeX2020fallingcrystalclouds
+    _paletteId: -1

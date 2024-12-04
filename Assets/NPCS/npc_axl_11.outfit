@@ -1,0 +1,78 @@
+{
+    "IncludeFallbacks": true,
+    "Skeleton": "",
+    "Clothing": [
+        {
+            "Id": "shoes-n_doodlekitchen2024axlsneakers",
+            "Color": 0
+        },
+        {
+            "Id": "bag-n_doodlekitchen2024axltail",
+            "Color": 0
+        },
+        {
+            "Id": "bag-n_doodlekitchen2024axlfingers",
+            "Color": 0
+        },
+        {
+            "Id": "hat-n_doodlekitchen2024axlfins",
+            "Color": 0
+        },
+        {
+            "Id": "hat-n_doodlekitchen2024axlsmallfin",
+            "Color": 0
+        },
+        {
+            "Id": "tattoo-n_doodlekitchen2024axlbod",
+            "Color": 0
+        },
+        {
+            "Id": "bag-n_doodlekitchen2024axlheadphones",
+            "Color": 0
+        },
+        {
+            "Id": "hair_front-n_aprilfoolsinvisible2020hair",
+            "Color": 0
+        },
+        {
+            "Id": "hair_back-n_aprilfoolsinvisible2020hair",
+            "Color": 0
+        },
+        {
+            "Id": "freckle-n_doodlekitchen2024axlmakeup",
+            "Color": 0
+        },
+        {
+            "Id": "mouth-n_doodlekitchen2024axlmouth",
+            "Color": 13
+        },
+        {
+            "Id": "nose-n_doodlekitchen2024axlnose",
+            "Color": 0
+        },
+        {
+            "Id": "eye-n_doodlekitchen2024axleyes",
+            "Color": 0
+        },
+        {
+            "Id": "eyebrow-n_doodlekitchen2024axleyebrow",
+            "Color": 0
+        },
+        {
+            "Id": "body-flesh",
+            "Color": 44
+        },
+        {
+            "Id": "glasses-n_hanselandgretel2020redframegreenshade",
+            "Color": 0
+        },
+        {
+            "Id": "pants-n_popmusicgrab2018asaprockypants",
+            "Color": 0
+        },
+        {
+            "Id": "shirt-n_falludc2022biudgeontrackjacket",
+            "Color": 0
+        }
+    ]
+}

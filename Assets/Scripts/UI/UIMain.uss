@@ -1,0 +1,35 @@
+:root {
+    --text-shadow: 1px 1px 1px black;
+    --text-shadow-none: 0 0 0 transparent;
+    --color-legendary: #ff8000;
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    -unity-font-definition: url("project://database/Assets/Fonts/Montserrat-Regular SDF.asset");
+    text-shadow: var(--text-shadow);
+    position: absolute;
+}
+
+.hud-top {
+    position: absolute;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.hud-bottom {
+    margin-top: auto;
+}
+
+.hud-right {
+    margin-left: auto;
+}
+
+.ui-content {
+    justify-content: center;
+    align-items: center;
+}

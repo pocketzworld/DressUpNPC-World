@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_ItemReward_01
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: bag-n_fiesta2017rainingcandy
+    _paletteId: -1
+  - _descriptorId: bag-n_bee2017bumblebuds
+    _paletteId: -1
+  - _descriptorId: bag-n_uniform2017paperplanes
+    _paletteId: -1
+  - _descriptorId: bag-n_leaf2018fallingleaves
+    _paletteId: -1
+  - _descriptorId: bag-n_PeterPan2018fairy
+    _paletteId: -1
+  - _descriptorId: bag-n_turtlerewards2018bubbles
+    _paletteId: -1
+  - _descriptorId: bag-n_kawaiigoth2018brokenheartaura
+    _paletteId: -1
+  - _descriptorId: bag-n_ReefRewards2018fishies
+    _paletteId: -1
+  - _descriptorId: bag-n_aeriesgrab2018_ghost
+    _paletteId: -1
+  - _descriptorId: bag-n_vdaycrewrewards2019heartarrows
+    _paletteId: -1
+  - _descriptorId: bag-n_valentinesprankpart2019conversationheartsaura
+    _paletteId: -1
+  - _descriptorId: bag-n_cherryblossomrewards19konpeitoaura
+    _paletteId: -1
+  - _descriptorId: bag-n_octorewardsfish
+    _paletteId: -1
+  - _descriptorId: bag-n_spacerewards19meteorshower
+    _paletteId: -1
+  - _descriptorId: bag-n_musicfest2019butterflies
+    _paletteId: -1
+  - _descriptorId: bag-n_mintrewards19mintstaraura
+    _paletteId: -1
+  - _descriptorId: bag-n_hummingbirdsrewards2019hummingbirdaura
+    _paletteId: -1
+  - _descriptorId: bag-n_winterfashionindivrewards2019coldsnap
+    _paletteId: -1
+  - _descriptorId: bag-n_idkiourewardsvalentine2020brokenhearts
+    _paletteId: -1
+  - _descriptorId: bag-n_htrunnerup2020heartstringlights
+    _paletteId: -1

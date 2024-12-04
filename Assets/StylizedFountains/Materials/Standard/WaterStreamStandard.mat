@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaterStreamStandard
+  m_Shader: {fileID: 4800000, guid: d7b6f496ba056dc4f93206ddeb1691c8, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3001
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_67CDF4EA:
+        m_Texture: {fileID: 2800000, guid: 5dd9035a9faf912409db60d6ce14143c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Alpha:
+        m_Texture: {fileID: 2800000, guid: c23ed99a6f76a434ba88d5c18840ac3c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DistortionTexture:
+        m_Texture: {fileID: 2800000, guid: 6026b17c7ea241840ac58663c6663978, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise2Texture:
+        m_Texture: {fileID: 2800000, guid: 6026b17c7ea241840ac58663c6663978, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTexture:
+        m_Texture: {fileID: 2800000, guid: 6026b17c7ea241840ac58663c6663978, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: c23ed99a6f76a434ba88d5c18840ac3c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture:
+        m_Texture: {fileID: 2800000, guid: 6026b17c7ea241840ac58663c6663978, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_390808FE: 0.225
+    - Vector1_F3229C0F: 1.15
+    - _Alpha: 1
+    - _AlphaCutoff: 0.5
+    - _Brightness: 0.675
+    - _DistortionStrength: 0.0065
+    - _FresnelPower: 1.8
+    - _Noise2Speed: 0.175
+    - _NoiseBlendAmount: 0.25
+    - _NoiseSpeed: 0.2
+    - _Smoothness: 0.5
+    - _Speed: 0.225
+    - _TessEdgeLength: 16
+    - _TessMax: 25
+    - _TessMaxDisp: 25
+    - _TessMin: 10
+    - _TessPhongStrength: 0.5
+    - _TessValue: 16
+    - _TransAmbient: 0.1
+    - _TransDirect: 0.9
+    - _TransNormal: 0.5
+    - _TransScattering: 2
+    - _TransShadow: 0.5
+    - _TransStrength: 1
+    - _TransmissionShadow: 0.5
+    - __dirty: 1
+    m_Colors:
+    - Color_B46467CC: {r: 1, g: 1, b: 1, a: 1}
+    - Vector2_32774FF1: {r: 3, g: 0.2, b: 0, a: 0}
+    - _Color: {r: 0.7490196, g: 0.9764706, b: 1, a: 0.85882354}
+    - _DistortionTiling: {r: 2, g: 0.375, b: 0, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Noise2Tiling: {r: 1, g: 0.375, b: 0, a: 0}
+    - _NoiseTiling: {r: 2, g: 0.2, b: 0, a: 0}
+    - _Tiling: {r: 2, g: 0.2, b: 0, a: 0}
+  m_BuildTextureStacks: []

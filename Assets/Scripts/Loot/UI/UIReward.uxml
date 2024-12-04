@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="UnityEngine.UIElements"
+    xmlns:hr="Highrise.UI"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd"
+>
+
+  <hr:UILuaView class="reward">
+    <VisualElement name="_overlay" class="fill-parent absolute modal"/>
+    <VisualElement name="_content">
+      <Label name="_rewardTitle" text="Rewards!" picking-mode="Ignore"/>
+      <hr:UIButton name="_collectButton" class="bottomcenter-anchor">
+        <Label text="Collect" class="font18 color-white" picking-mode="Ignore"/>
+      </hr:UIButton>
+    </VisualElement>
+  </hr:UILuaView>
+
+</UXML>

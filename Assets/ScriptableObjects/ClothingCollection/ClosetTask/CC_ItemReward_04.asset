@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_ItemReward_04
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: freckle-n_freckle01
+    _paletteId: -1
+  - _descriptorId: blush-f_blush01
+    _paletteId: -1
+  - _descriptorId: freckle-n_basic2018freckle34
+    _paletteId: -1
+  - _descriptorId: freckle-n_basic2018freckle22
+    _paletteId: -1
+  - _descriptorId: freckle-n_basic2018freckle28
+    _paletteId: -1
+  - _descriptorId: freckle-n_basic2018freckle27
+    _paletteId: -1
+  - _descriptorId: freckle-n_2016newyearglitter
+    _paletteId: -1
+  - _descriptorId: freckle-n_martigras2017facepaint
+    _paletteId: -1
+  - _descriptorId: freckle-n_fortuneteller2017thirdeye
+    _paletteId: -1
+  - _descriptorId: freckle-n_yukiyellyko2017freckles
+    _paletteId: -1
+  - _descriptorId: freckle-n_flowerrewards2018flowercheeks
+    _paletteId: -1
+  - _descriptorId: freckle-n_heavymetalgrab2018alicecoopereyemakeup
+    _paletteId: -1
+  - _descriptorId: freckle-n_colorrunrewards2018colorfacesplat
+    _paletteId: -1
+  - _descriptorId: freckle-n_spacegrab2019cosmicmakeup
+    _paletteId: -1
+  - _descriptorId: freckle-n_snowsnowflakerewards2018snowflakecheek
+    _paletteId: -1
+  - _descriptorId: freckle-n_tyedyerewards2019tyedyeface
+    _paletteId: -1
+  - _descriptorId: freckle-n_junglerewards2020tigerpaint
+    _paletteId: -1
+  - _descriptorId: freckle-n_modwitchcrewrewards2020purpleyefreckles
+    _paletteId: -1
+  - _descriptorId: freckle-n_playerdesignrewards2019erostbiteface
+    _paletteId: -1
+  - _descriptorId: freckle-n_discorollergrab2020bluestar
+    _paletteId: -1
+  - _descriptorId: freckle-n_gothluckytoken2020nightcheeks
+    _paletteId: -1
+  - _descriptorId: freckle-n_tattoohairrewards2020vinetattgreen
+    _paletteId: -1
+  - _descriptorId: freckle-n_forestspirit2021vines
+    _paletteId: -1
+  - _descriptorId: blush-n_forestpixiegrab2020pixieblush
+    _paletteId: -1
+  - _descriptorId: freckle-n_heavengrab2021goldfoil
+    _paletteId: -1
+  - _descriptorId: blush-n_sodapop2021sodabubbleblush
+    _paletteId: -1
+  - _descriptorId: blush-n_mazistiredbrand2022_purpleblush
+    _paletteId: -1
+  - _descriptorId: freckle-n_muthurcosmeticsbrand2022blushshadow
+    _paletteId: -1
+  - _descriptorId: freckle-n_muthurcosmeticsbrand2022blackshadow
+    _paletteId: -1
+  - _descriptorId: freckle-n_promperfectgrab22024iimitalychiradragontat
+    _paletteId: -1

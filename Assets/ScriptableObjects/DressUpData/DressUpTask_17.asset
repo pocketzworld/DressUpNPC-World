@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0ae1a77cdfe88f1932ecf3ff099b558, type: 3}
+  m_Name: DressUpTask_17
+  m_EditorClassIdentifier: 
+  _script: {fileID: -974389366465450183, guid: 0a711aa27721882429f1cfea4a46b58d, type: 3}
+  _networkId: 1671475533
+  _properties: []
+  _id: choice_17
+  _closetTask: 0
+  _closetClothingCollection: {fileID: 0}
+  _typeTargets: []
+  _characterOutfits:
+  - {fileID: 11400000, guid: 8f9935b2a74b1874abc75e2507d43bc8, type: 2}
+  - {fileID: 11400000, guid: d76bcf70f3d35404b92bd22fab04b959, type: 2}
+  - {fileID: 11400000, guid: e37e0c994e5c17946a9ab8513452e878, type: 2}
+  _bestChoices:
+  - 1
+  - 1
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  _startDialogTemplate: {fileID: 11400000, guid: eb5d53f17c0889a42959a8feba13590a,
+    type: 2}
+  _endSuccessDialogTemplate: {fileID: 11400000, guid: 01d2dc1918cf72448900b28b5c27de36,
+    type: 2}
+  _endFailDialogTemplate: {fileID: 11400000, guid: fe68d38559ed4804e83b4e8acdba1d16,
+    type: 2}
+  _lootContainerTemplate: {fileID: 11400000, guid: f7376c6d819ca164584aa2f26ff8e134,
+    type: 2}
+  references:
+    version: 2
+    RefIds: []

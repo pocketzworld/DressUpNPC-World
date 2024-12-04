@@ -1,0 +1,62 @@
+{
+  "IncludeFallbacks": true,
+  "Skeleton": "",
+  "Clothing": [
+    {
+      "Id": "body-flesh",
+      "Color": 25
+    },
+    {
+      "Id": "tattoo-n_jewelriseudcgrabone2024isweatstarbellypiercing",
+      "Color": -1
+    },
+    {
+      "Id": "gloves-n_muthurprincessgrab2022princessnails",
+      "Color": -1
+    },
+    {
+      "Id": "nose-n_muthurcosmeticsbrand2022glamarousnose",
+      "Color": 0
+    },
+    {
+      "Id": "mouth-n_glowupgrabtwo2024tottymouth",
+      "Color": 0
+    },
+    {
+      "Id": "freckle-n_ReneeMurthurGrab2021FaceGlow",
+      "Color": 0
+    },
+    {
+      "Id": "eyebrow-n_09",
+      "Color": 4
+    },
+    {
+      "Id": "eye-n_pastelgothlolita2018sweetdolleyes",
+      "Color": 22
+    },
+    {
+      "Id": "hair_front-n_cheriemaxluckyspin2021cheriehair",
+      "Color": 78
+    },
+    {
+      "Id": "hair_back-n_cheriemaxluckyspin2021cheriehair",
+      "Color": 78
+    },
+    {
+      "Id": "dress-n_glowupgrabtwo2024tottytweeddresspink",
+      "Color": -1
+    },
+    {
+      "Id": "shoes-n_starteritems2019flatspink",
+      "Color": 0
+    },
+    {
+      "Id": "sock-n_hrcc2021socks007",
+      "Color": -1
+    },
+    {
+      "Id": "bag-n_room12019purse",
+      "Color": -1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_ItemReward_03
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: mouth-f_12
+    _paletteId: -1
+  - _descriptorId: mouth-n_01
+    _paletteId: -1
+  - _descriptorId: mouth-basic2018smirk
+    _paletteId: -1
+  - _descriptorId: mouth-basic2018tongueout
+    _paletteId: -1
+  - _descriptorId: mouth-n_room22019sillymouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_basic2018agapethinground
+    _paletteId: -1
+  - _descriptorId: mouth-n_2016piratemouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_2016zootopiawhistlemouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_2016coffeeshopdonutmouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_sick2016infectedmouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_waffle2017waffleinmouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_valentinesreward2018roseinmouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_chocorewards2018chocolatebarmouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_haileyhay10grab2018flowermouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_soccerfan2018hellyeahmouth
+    _paletteId: -1
+  - _descriptorId: mouth-basic2018openfulllowerround
+    _paletteId: -1
+  - _descriptorId: mouth-n_hrcc2021mouth001
+    _paletteId: -1
+  - _descriptorId: mouth-n_hrcc2021mouth003
+    _paletteId: -1
+  - _descriptorId: mouth-n_hrcc2021mouth004
+    _paletteId: -1
+  - _descriptorId: mouth-n_darkclownrewards2022sadheartmouth
+    _paletteId: -1
+  - _descriptorId: mouth-n_eyerisecrewrewards2023delightfulfangmouthmiyeine
+    _paletteId: -1
+  - _descriptorId: mouth-n_y2kfallbackgrabfive2023heartbreakermouth
+    _paletteId: -1

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1be4dc1c48e117b1b198166489adc7d5, type: 3}
+  m_Name: DressUpDialog_Start_00
+  m_EditorClassIdentifier: 
+  _script: {fileID: -974389366465450183, guid: a13bdcc9f23e17640b4716b13372c700, type: 3}
+  _networkId: 2131941351
+  _properties: []
+  _dialogStrings:
+  - Hi! Um, could help me get ready... I've got my first class at fashion school
+    today. I'm so nervous!
+  - Exciting! I'd love to help. You need something that makes you feel cool and confident
+  - Totally! Everyone there is a fashion expert, so the classroom is like a catwalk
+  - Don't worry, you'll be teachers pet!
+  _emotes:
+  - emote-shy
+  - 
+  - 
+  - 
+  _playerSpeakingList: 00010001
+  _speechAudio: {fileID: 11400000, guid: 1e46d134bdd441041bb122c441cc4e1f, type: 2}
+  _displayData: {fileID: 11400000, guid: 72e35e2f26a3b06419fd8321e7da282e, type: 2}
+  _randomizeStrings: 0
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754193419, guid: 30a4c7dce0b6891478396efa6bd2a6d0, type: 3}
+  m_Name: CC_Task_11_Shirt
+  m_EditorClassIdentifier: 
+  _items:
+  - _descriptorId: shirt-n_romantifyudc2024ohaibambidatenitebuttondownwhite
+    _paletteId: -1
+  - _descriptorId: shirt-christmasatthemallrisewintercollection2022checkersweaterwhitepurple
+    _paletteId: -1
+  - _descriptorId: shirt-maygifts2024flamebuttonup
+    _paletteId: -1
+
+  - _descriptorId: shirt-hrlivenew2024suittop
+    _paletteId: -1
+  - _descriptorId: shirt-f_skullsweaterblack
+    _paletteId: -1
+  - _descriptorId: shirt-n_starteritems2019maletshirtwhite
+    _paletteId: -1

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 417a00161619b211007fdd4fb6507330, type: 3}
+  m_Name: MainQuest_06
+  m_EditorClassIdentifier: 
+  _script: {fileID: -974389366465450183, guid: fba500c3acc6b2c4baa0dd9a0c8f73e5, type: 3}
+  _networkId: 2829262256
+  _properties: []
+  _id: main_06
+  _questText: Wedding Dress Up
+  _goalDescription: Pick a wedding outfit matching Parker's style
+  _displayData: {fileID: 0}
+  _targetAmount: 1
+  _requirement: {fileID: 11400000, guid: 043346ca631e234419a68782c3f1d38d, type: 2}
+  _lootContainerTemplate: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []

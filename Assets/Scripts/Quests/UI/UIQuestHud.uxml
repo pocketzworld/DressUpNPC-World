@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="UnityEngine.UIElements"
+    xmlns:hr="Highrise.UI"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd"
+>
+
+  <hr:UILuaView class="quest-hud" picking-mode="ignore">
+    <VisualElement name="_content" picking-mode="ignore">
+    </VisualElement>
+  </hr:UILuaView>
+
+</UXML>
